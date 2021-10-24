@@ -1,0 +1,1297 @@
+{
+    "races":[
+        {"dwarf": {
+            "stat_changes":{
+                "strength": "0",
+                "intelligence": "0",
+                "wisdom": "0",
+                "dexterity": "0",
+                "constitution": "1",
+                "charisma": "-1"
+            },
+            "classes": {
+                "cleric": "8",
+                "druid": "NA",
+                "fighter": "9",
+                "paladin": "NA",
+                "ranger": "NA",
+                "magic-user": "NA",
+                "illusionist": "NA",
+                "thief": "U",
+                "assassin": "9",
+                "monk": "NA"
+            },
+            "stat_min_max": {
+                "male": {
+                    "strength": {
+                        "min": "8",
+                        "max": "18"
+                    },
+                    "intelligence": {
+                        "min": "3",
+                        "max": "18"
+                    },
+                    "wisdom": {
+                        "min": "3",
+                        "max": "18"
+                    },
+                    "dexterity": {
+                        "min": "3",
+                        "max": "17"
+                    },
+                    "constitution": {
+                        "min": "12",
+                        "max": "19"
+                    },
+                    "charisma": {
+                        "min": "3",
+                        "max": "16"
+                    }
+                },
+                "female": {
+                    "strength": {
+                        "min": "8",
+                        "max": "17"
+                    },
+                    "intelligence": {
+                        "min": "3",
+                        "max": "18"
+                    },
+                    "wisdom": {
+                        "min": "3",
+                        "max": "18"
+                    },
+                    "dexterity": {
+                        "min": "3",
+                        "max": "17"
+                    },
+                    "constitution": {
+                        "min": "12",
+                        "max": "19"
+                    },
+                    "charisma": {
+                        "min": "3",
+                        "max": "16"
+                    }
+                }
+            }
+        }},
+        {"elves": {
+            "stat_changes":{
+                "strength": "0",
+                "intelligence": "0",
+                "wisdom": "0",
+                "dexterity": "1",
+                "constitution": "-1",
+                "charisma": "0"
+            },
+            "classes": {
+                "cleric": "7",
+                "druid": "NA",
+                "fighter": "7",
+                "paladin": "NA",
+                "ranger": "NA",
+                "magic-user": "11",
+                "illusionist": "NA",
+                "thief": "U",
+                "assassin": "10",
+                "monk": "NA"
+            },
+            "stat_min_max": {
+                "male": {
+                    "strength": {
+                        "min": "3",
+                        "max": "18"
+                    },
+                    "intelligence": {
+                        "min": "8",
+                        "max": "18"
+                    },
+                    "wisdom": {
+                        "min": "3",
+                        "max": "18"
+                    },
+                    "dexterity": {
+                        "min": "7",
+                        "max": "19"
+                    },
+                    "constitution": {
+                        "min": "6",
+                        "max": "18"
+                    },
+                    "charisma": {
+                        "min": "8",
+                        "max": "18"
+                    }
+                },
+                "female": {
+                    "strength": {
+                        "min": "3",
+                        "max": "16"
+                    },
+                    "intelligence": {
+                        "min": "8",
+                        "max": "18"
+                    },
+                    "wisdom": {
+                        "min": "3",
+                        "max": "18"
+                    },
+                    "dexterity": {
+                        "min": "7",
+                        "max": "19"
+                    },
+                    "constitution": {
+                        "min": "6",
+                        "max": "18"
+                    },
+                    "charisma": {
+                        "min": "8",
+                        "max": "18"
+                    }
+                }
+            }
+        }},
+        {"gnomes": {
+            "stat_changes":{
+                "strength": "0",
+                "intelligence": "0",
+                "wisdom": "0",
+                "dexterity": "0",
+                "constitution": "0",
+                "charisma": "0"
+            },
+            "classes": {
+                "cleric": "7",
+                "druid": "NA",
+                "fighter": "6",
+                "paladin": "NA",
+                "ranger": "NA",
+                "magic-user": "NA",
+                "illusionist": "7",
+                "thief": "U",
+                "assassin": "8",
+                "monk": "NA"
+            },
+            "stat_min_max": {
+                "male": {
+                    "strength": {
+                        "min": "6",
+                        "max": "18"
+                    },
+                    "intelligence": {
+                        "min": "7",
+                        "max": "18"
+                    },
+                    "wisdom": {
+                        "min": "3",
+                        "max": "18"
+                    },
+                    "dexterity": {
+                        "min": "3",
+                        "max": "18"
+                    },
+                    "constitution": {
+                        "min": "8",
+                        "max": "18"
+                    },
+                    "charisma": {
+                        "min": "3",
+                        "max": "18"
+                    }
+                },
+                "female": {
+                    "strength": {
+                        "min": "6",
+                        "max": "15"
+                    },
+                    "intelligence": {
+                        "min": "7",
+                        "max": "18"
+                    },
+                    "wisdom": {
+                        "min": "3",
+                        "max": "18"
+                    },
+                    "dexterity": {
+                        "min": "3",
+                        "max": "18"
+                    },
+                    "constitution": {
+                        "min": "8",
+                        "max": "18"
+                    },
+                    "charisma": {
+                        "min": "3",
+                        "max": "18"
+                    }
+                }
+            }
+        }},
+        {"half-elves": {
+            "stat_changes":{
+                "strength": "0",
+                "intelligence": "0",
+                "wisdom": "0",
+                "dexterity": "0",
+                "constitution": "0",
+                "charisma": "0"
+            },
+            "classes": {
+                "cleric": "5",
+                "druid": "U",
+                "fighter": "8",
+                "paladin": "NA",
+                "ranger": "8",
+                "magic-user": "8",
+                "illusionist": "NA",
+                "thief": "U",
+                "assassin": "11",
+                "monk": "NA"
+            },
+            "stat_min_max": {
+                "male": {
+                    "strength": {
+                        "min": "3",
+                        "max": "18"
+                    },
+                    "intelligence": {
+                        "min": "4",
+                        "max": "18"
+                    },
+                    "wisdom": {
+                        "min": "3",
+                        "max": "18"
+                    },
+                    "dexterity": {
+                        "min": "6",
+                        "max": "18"
+                    },
+                    "constitution": {
+                        "min": "6",
+                        "max": "18"
+                    },
+                    "charisma": {
+                        "min": "3",
+                        "max": "18"
+                    }
+                },
+                "female": {
+                    "strength": {
+                        "min": "3",
+                        "max": "17"
+                    },
+                    "intelligence": {
+                        "min": "4",
+                        "max": "18"
+                    },
+                    "wisdom": {
+                        "min": "3",
+                        "max": "18"
+                    },
+                    "dexterity": {
+                        "min": "6",
+                        "max": "18"
+                    },
+                    "constitution": {
+                        "min": "6",
+                        "max": "18"
+                    },
+                    "charisma": {
+                        "min": "3",
+                        "max": "18"
+                    }
+                }
+            }
+        }},
+        {"halflings": {
+            "stat_changes":{
+                "strength": "-1",
+                "intelligence": "0",
+                "wisdom": "0",
+                "dexterity": "1",
+                "constitution": "0",
+                "charisma": "0"
+            },
+            "classes": {
+                "cleric": "NA",
+                "druid": "6",
+                "fighter": "6",
+                "paladin": "NA",
+                "ranger": "NA",
+                "magic-user": "NA",
+                "illusionist": "NA",
+                "thief": "U",
+                "assassin": "NA",
+                "monk": "NA"
+            },
+            "stat_min_max": {
+                "male": {
+                    "strength": {
+                        "min": "6",
+                        "max": "17"
+                    },
+                    "intelligence": {
+                        "min": "6",
+                        "max": "18"
+                    },
+                    "wisdom": {
+                        "min": "3",
+                        "max": "17"
+                    },
+                    "dexterity": {
+                        "min": "8",
+                        "max": "18"
+                    },
+                    "constitution": {
+                        "min": "10",
+                        "max": "19"
+                    },
+                    "charisma": {
+                        "min": "3",
+                        "max": "18"
+                    }
+                },
+                "female": {
+                    "strength": {
+                        "min": "6",
+                        "max": "14"
+                    },
+                    "intelligence": {
+                        "min": "6",
+                        "max": "18"
+                    },
+                    "wisdom": {
+                        "min": "3",
+                        "max": "17"
+                    },
+                    "dexterity": {
+                        "min": "8",
+                        "max": "18"
+                    },
+                    "constitution": {
+                        "min": "10",
+                        "max": "19"
+                    },
+                    "charisma": {
+                        "min": "3",
+                        "max": "18"
+                    }
+                }
+            }
+        }},
+        {"half-orcs": {
+            "stat_changes":{
+                "strength": "1",
+                "intelligence": "0",
+                "wisdom": "0",
+                "dexterity": "0",
+                "constitution": "1",
+                "charisma": "-2"
+            },
+            "classes": {
+                "cleric": "4",
+                "druid": "NA",
+                "fighter": "10",
+                "paladin": "NA",
+                "ranger": "NA",
+                "magic-user": "NA",
+                "illusionist": "NA",
+                "thief": "8",
+                "assassin": "U",
+                "monk": "NA"
+            },
+            "stat_min_max": {
+                "male": {
+                    "strength": {
+                        "min": "6",
+                        "max": "18"
+                    },
+                    "intelligence": {
+                        "min": "3",
+                        "max": "17"
+                    },
+                    "wisdom": {
+                        "min": "3",
+                        "max": "14"
+                    },
+                    "dexterity": {
+                        "min": "3",
+                        "max": "17"
+                    },
+                    "constitution": {
+                        "min": "13",
+                        "max": "19"
+                    },
+                    "charisma": {
+                        "min": "3",
+                        "max": "12"
+                    }
+                },
+                "female": {
+                    "strength": {
+                        "min": "6",
+                        "max": "18"
+                    },
+                    "intelligence": {
+                        "min": "3",
+                        "max": "17"
+                    },
+                    "wisdom": {
+                        "min": "3",
+                        "max": "14"
+                    },
+                    "dexterity": {
+                        "min": "3",
+                        "max": "17"
+                    },
+                    "constitution": {
+                        "min": "13",
+                        "max": "19"
+                    },
+                    "charisma": {
+                        "min": "3",
+                        "max": "12"
+                    }
+                }
+            }
+        }},
+        {"humans": {
+            "stat_changes":{
+                "strength": "0",
+                "intelligence": "0",
+                "wisdom": "0",
+                "dexterity": "0",
+                "constitution": "0",
+                "charisma": "0"
+            },
+            "classes": {
+                "cleric": "U",
+                "druid": "U",
+                "fighter": "U",
+                "paladin": "U",
+                "ranger": "U",
+                "magic-user": "U",
+                "illusionist": "U",
+                "thief": "U",
+                "assassin": "U",
+                "monk": "U"
+            },
+            "stat_min_max": {
+                "male": {
+                    "strength": {
+                        "min": "NA",
+                        "max": "NA"
+                    },
+                    "intelligence": {
+                        "min": "NA",
+                        "max": "NA"
+                    },
+                    "wisdom": {
+                        "min": "NA",
+                        "max": "NA"
+                    },
+                    "dexterity": {
+                        "min": "NA",
+                        "max": "NA"
+                    },
+                    "constitution": {
+                        "min": "NA",
+                        "max": "NA"
+                    },
+                    "charisma": {
+                        "min": "NA",
+                        "max": "NA"
+                    }
+                },
+                "female": {
+                    "strength": {
+                        "min": "NA",
+                        "max": "NA"
+                    },
+                    "intelligence": {
+                        "min": "NA",
+                        "max": "NA"
+                    },
+                    "wisdom": {
+                        "min": "NA",
+                        "max": "NA"
+                    },
+                    "dexterity": {
+                        "min": "NA",
+                        "max": "NA"
+                    },
+                    "constitution": {
+                        "min": "NA",
+                        "max": "NA"
+                    },
+                    "charisma": {
+                        "min": "NA",
+                        "max": "NA"
+                    }
+                }
+            }
+        }}
+    ],
+    "classes":[
+        {"cleric": {
+            "minimum_requirements": {
+                "strength": "",
+                "intelligence": "",
+                "wisdom": "",
+                "dexterity": "",
+                "constitution": "",
+                "charisma": ""
+            },
+            "experience_bonus": {
+                "strength": "",
+                "intelligence": "",
+                "wisdom": "",
+                "dexterity": "",
+                "constitution": "",
+                "charisma": "",
+                "bonus": ""
+            }
+        }},
+        {"druid": {
+            "minimum_requirements": {
+                "strength": "",
+                "intelligence": "",
+                "wisdom": "",
+                "dexterity": "",
+                "constitution": "",
+                "charisma": ""
+            }
+        }},
+        {"fighter": {
+            "minimum_requirements": {
+                "strength": "",
+                "intelligence": "",
+                "wisdom": "",
+                "dexterity": "",
+                "constitution": "",
+                "charisma": ""
+            }
+        }},
+        {"paladin": {
+            "minimum_requirements": {
+                "strength": "",
+                "intelligence": "",
+                "wisdom": "",
+                "dexterity": "",
+                "constitution": "",
+                "charisma": ""
+            }
+        }},
+        {"ranger": {
+            "minimum_requirements": {
+                "strength": "",
+                "intelligence": "",
+                "wisdom": "",
+                "dexterity": "",
+                "constitution": "",
+                "charisma": ""
+            }
+        }},
+        {"magic-user": {
+            "minimum_requirements": {
+                "strength": "",
+                "intelligence": "",
+                "wisdom": "",
+                "dexterity": "",
+                "constitution": "",
+                "charisma": ""
+            }
+        }},
+        {"illusionist": {
+            "minimum_requirements": {
+                "strength": "",
+                "intelligence": "",
+                "wisdom": "",
+                "dexterity": "",
+                "constitution": "",
+                "charisma": ""
+            }
+        }},
+        {"thief": {
+            "minimum_requirements": {
+                "strength": "",
+                "intelligence": "",
+                "wisdom": "",
+                "dexterity": "",
+                "constitution": "",
+                "charisma": ""
+            }
+        }},
+        {"assassin": {
+            "minimum_requirements": {
+                "strength": "",
+                "intelligence": "",
+                "wisdom": "",
+                "dexterity": "",
+                "constitution": "",
+                "charisma": ""
+            }
+        }},
+        {"monk": {
+            "minimum_requirements": {
+                "strength": "",
+                "intelligence": "",
+                "wisdom": "",
+                "dexterity": "",
+                "constitution": "",
+                "charisma": ""
+            }
+        }}
+    ],
+    "stats":[
+        {"strength":{
+            "ability_score": {
+                "3": {
+                    "hit_probability": "-3",
+                    "damage_adjustment": "-1",
+                    "weight_allowance": "-350",
+                    "open_doors_on_a": "1",
+                    "bend_bars_lift_gates": "0"
+                },
+                "4": {
+                    "hit_probability": "-2",
+                    "damage_adjustment": "-1",
+                    "weight_allowance": "-250",
+                    "open_doors_on_a": "1",
+                    "bend_bars_lift_gates": "0"
+                },
+                "5": {
+                    "hit_probability": "-2",
+                    "damage_adjustment": "-1",
+                    "weight_allowance": "-250",
+                    "open_doors_on_a": "1",
+                    "bend_bars_lift_gates": "0"
+                },
+                "6": {
+                    "hit_probability": "-1",
+                    "damage_adjustment": "0",
+                    "weight_allowance": "-150",
+                    "open_doors_on_a": "1",
+                    "bend_bars_lift_gates": "0"
+                },
+                "7": {
+                    "hit_probability": "-1",
+                    "damage_adjustment": "0",
+                    "weight_allowance": "-150",
+                    "open_doors_on_a": "1",
+                    "bend_bars_lift_gates": "0"
+                },
+                "8": {
+                    "hit_probability": "0",
+                    "damage_adjustment": "0",
+                    "weight_allowance": "0",
+                    "open_doors_on_a": "1-2",
+                    "bend_bars_lift_gates": "1"
+                },
+                "9": {
+                    "hit_probability": "0",
+                    "damage_adjustment": "0",
+                    "weight_allowance": "0",
+                    "open_doors_on_a": "1-2",
+                    "bend_bars_lift_gates": "1"
+                },
+                "10": {
+                    "hit_probability": "0",
+                    "damage_adjustment": "0",
+                    "weight_allowance": "0",
+                    "open_doors_on_a": "1-2",
+                    "bend_bars_lift_gates": "2"
+                },
+                "11": {
+                    "hit_probability": "0",
+                    "damage_adjustment": "0",
+                    "weight_allowance": "0",
+                    "open_doors_on_a": "1-2",
+                    "bend_bars_lift_gates": "2"
+                },
+                "12": {
+                    "hit_probability": "0",
+                    "damage_adjustment": "0",
+                    "weight_allowance": "100",
+                    "open_doors_on_a": "1-2",
+                    "bend_bars_lift_gates": "4"
+                },
+                "13": {
+                    "hit_probability": "0",
+                    "damage_adjustment": "0",
+                    "weight_allowance": "100",
+                    "open_doors_on_a": "1-2",
+                    "bend_bars_lift_gates": "4"
+                },
+                "14": {
+                    "hit_probability": "0",
+                    "damage_adjustment": "0",
+                    "weight_allowance": "200",
+                    "open_doors_on_a": "1-2",
+                    "bend_bars_lift_gates": "7"
+                },
+                "15": {
+                    "hit_probability": "0",
+                    "damage_adjustment": "0",
+                    "weight_allowance": "200",
+                    "open_doors_on_a": "1-2",
+                    "bend_bars_lift_gates": "7"
+                },
+                "16": {
+                    "hit_probability": "0",
+                    "damage_adjustment": "1",
+                    "weight_allowance": "350",
+                    "open_doors_on_a": "1-3",
+                    "bend_bars_lift_gates": "10"
+                },
+                "17": {
+                    "hit_probability": "1",
+                    "damage_adjustment": "1",
+                    "weight_allowance": "500",
+                    "open_doors_on_a": "1-3",
+                    "bend_bars_lift_gates": "13"
+                },
+                "18": {
+                    "hit_probability": "+1",
+                    "damage_adjustment": "2",
+                    "weight_allowance": "750",
+                    "open_doors_on_a": "1-3",
+                    "bend_bars_lift_gates": "16"
+                }
+            }
+        }},
+        {"intelligence": {
+            "ability_score": {
+                "3": {
+                    "max_language": "0",
+                    "know_spell": "NA",
+                    "min_spell": "NA",
+                    "max_spell": "NA"
+                },
+                "4": {
+                    "max_language": "0",
+                    "know_spell": "NA",
+                    "min_spell": "NA",
+                    "max_spell": "NA"
+                },
+                "5": {
+                    "max_language": "0",
+                    "know_spell": "NA",
+                    "min_spell": "NA",
+                    "max_spell": "NA"
+                },
+                "6": {
+                    "max_language": "0",
+                    "know_spell": "NA",
+                    "min_spell": "NA",
+                    "max_spell": "NA"
+                },
+                "7": {
+                    "max_language": "0",
+                    "know_spell": "NA",
+                    "min_spell": "NA",
+                    "max_spell": "NA"
+                },
+                "8": {
+                    "max_language": "1",
+                    "know_spell": "NA",
+                    "min_spell": "NA",
+                    "max_spell": "NA"
+                },
+                "9": {
+                    "max_language": "1",
+                    "know_spell": "35",
+                    "min_spell": "4",
+                    "max_spell": "6"
+                },
+                "10": {
+                    "max_language": "2",
+                    "know_spell": "45",
+                    "min_spell": "5",
+                    "max_spell": "7"
+                },
+                "11": {
+                    "max_language": "2",
+                    "know_spell": "45",
+                    "min_spell": "5",
+                    "max_spell": "7"
+                },
+                "12": {
+                    "max_language": "3",
+                    "know_spell": "45",
+                    "min_spell": "5",
+                    "max_spell": "7"
+                },
+                "13": {
+                    "max_language": "3",
+                    "know_spell": "55",
+                    "min_spell": "6",
+                    "max_spell": "9"
+                },
+                "14": {
+                    "max_language": "4",
+                    "know_spell": "55",
+                    "min_spell": "6",
+                    "max_spell": "9"
+                },
+                "15": {
+                    "max_language": "4",
+                    "know_spell": "65",
+                    "min_spell": "7",
+                    "max_spell": "11"
+                },
+                "16": {
+                    "max_language": "5",
+                    "know_spell": "65",
+                    "min_spell": "7",
+                    "max_spell": "11"
+                },
+                "17": {
+                    "max_language": "6",
+                    "know_spell": "75",
+                    "min_spell": "8",
+                    "max_spell": "14"
+                },
+                "18": {
+                    "max_language": "7",
+                    "know_spell": "85",
+                    "min_spell": "9",
+                    "max_spell": "18"
+                }
+            }
+        }},
+        {"wisdom": {
+            "ability_score": {
+                "3": {
+                    "magical_attack_adjustment": "-3",
+                    "spell_bonus": "NA",
+                    "spell_failure": "NA"
+                },
+                "4": {
+                    "magical_attack_adjustment": "-2",
+                    "spell_bonus": "NA",
+                    "spell_failure": "NA"
+                },
+                "5": {
+                    "magical_attack_adjustment": "-1",
+                    "spell_bonus": "NA",
+                    "spell_failure": "NA"
+                },
+                "6": {
+                    "magical_attack_adjustment": "-1",
+                    "spell_bonus": "NA",
+                    "spell_failure": "NA"
+                },
+                "7": {
+                    "magical_attack_adjustment": "-1",
+                    "spell_bonus": "NA",
+                    "spell_failure": "NA"
+                },
+                "8": {
+                    "magical_attack_adjustment": "0",
+                    "spell_bonus": "NA",
+                    "spell_failure": "NA"
+                },
+                "9": {
+                    "magical_attack_adjustment": "0",
+                    "spell_bonus": "NA",
+                    "spell_failure": "20"
+                },
+                "10": {
+                    "magical_attack_adjustment": "0",
+                    "spell_bonus": "NA",
+                    "spell_failure": "15"
+                },
+                "11": {
+                    "magical_attack_adjustment": "0",
+                    "spell_bonus": "NA",
+                    "spell_failure": "10"
+                },
+                "12": {
+                    "magical_attack_adjustment": "0",
+                    "spell_bonus": "NA",
+                    "spell_failure": "5"
+                },
+                "13": {
+                    "magical_attack_adjustment": "0",
+                    "spell_bonus": "1 Lvl 1",
+                    "spell_failure": "0"
+                },
+                "14": {
+                    "magical_attack_adjustment": "0",
+                    "spell_bonus": "1 Lvl 1",
+                    "spell_failure": "0"
+                },
+                "15": {
+                    "magical_attack_adjustment": "1",
+                    "spell_bonus": "1 Lvl 2",
+                    "spell_failure": "0"
+                },
+                "16": {
+                    "magical_attack_adjustment": "2",
+                    "spell_bonus": "1 Lvl 2",
+                    "spell_failure": "0"
+                },
+                "17": {
+                    "magical_attack_adjustment": "3",
+                    "spell_bonus": "1 Lvl 3",
+                    "spell_failure": "0"
+                },
+                "18": {
+                    "magical_attack_adjustment": "4",
+                    "spell_bonus": "1 Lvl 4",
+                    "spell_failure": "0"
+                }
+            }
+        }},
+        {"dexterity": {
+            "ability_score": {
+                "3": {
+                    "reaction_adjustment": "-3",
+                    "defense_adjustment": "4",
+                    "thief_skills": {
+                        "pick_pocketing": "NA",
+                        "opening_locks": "NA",
+                        "locating_removing_traps": "NA",
+                        "moving_silently": "NA",
+                        "hiding_in_shadows": "NA"
+                    }
+                },
+                "4": {
+                    "reaction_adjustment": "-2",
+                    "defense_adjustment": "3",
+                    "thief_skills": {
+                        "pick_pocketing": "NA",
+                        "opening_locks": "NA",
+                        "locating_removing_traps": "NA",
+                        "moving_silently": "NA",
+                        "hiding_in_shadows": "NA"
+                    }
+                },
+                "5": {
+                    "reaction_adjustment": "-1",
+                    "defense_adjustment": "2",
+                    "thief_skills": {
+                        "pick_pocketing": "NA",
+                        "opening_locks": "NA",
+                        "locating_removing_traps": "NA",
+                        "moving_silently": "NA",
+                        "hiding_in_shadows": "NA"
+                    }
+                },
+                "6": {
+                    "reaction_adjustment": "0",
+                    "defense_adjustment": "1",
+                    "thief_skills": {
+                        "pick_pocketing": "NA",
+                        "opening_locks": "NA",
+                        "locating_removing_traps": "NA",
+                        "moving_silently": "NA",
+                        "hiding_in_shadows": "NA"
+                    }
+                },
+                "7": {
+                    "reaction_adjustment": "0",
+                    "defense_adjustment": "0",
+                    "thief_skills": {
+                        "pick_pocketing": "NA",
+                        "opening_locks": "NA",
+                        "locating_removing_traps": "NA",
+                        "moving_silently": "NA",
+                        "hiding_in_shadows": "NA"
+                    }
+                },
+                "8": {
+                    "reaction_adjustment": "0",
+                    "defense_adjustment": "0",
+                    "thief_skills": {
+                        "pick_pocketing": "NA",
+                        "opening_locks": "NA",
+                        "locating_removing_traps": "NA",
+                        "moving_silently": "NA",
+                        "hiding_in_shadows": "NA"
+                    }
+                },
+                "9": {
+                    "reaction_adjustment": "0",
+                    "defense_adjustment": "0",
+                    "thief_skills": {
+                        "pick_pocketing": "-15",
+                        "opening_locks": "-10",
+                        "locating_removing_traps": "-10",
+                        "moving_silently": "-20",
+                        "hiding_in_shadows": "-10"
+                    }
+                },
+                "10": {
+                    "reaction_adjustment": "0",
+                    "defense_adjustment": "0",
+                    "thief_skills": {
+                        "pick_pocketing": "-10",
+                        "opening_locks": "-5",
+                        "locating_removing_traps": "-10",
+                        "moving_silently": "-15",
+                        "hiding_in_shadows": "-5"
+                    }
+                },
+                "11": {
+                    "reaction_adjustment": "0",
+                    "defense_adjustment": "0",
+                    "thief_skills": {
+                        "pick_pocketing": "-5",
+                        "opening_locks": "0",
+                        "locating_removing_traps": "-5",
+                        "moving_silently": "-10",
+                        "hiding_in_shadows": "0"
+                    }
+                },
+                "12": {
+                    "reaction_adjustment": "0",
+                    "defense_adjustment": "0",
+                    "thief_skills": {
+                        "pick_pocketing": "0",
+                        "opening_locks": "0",
+                        "locating_removing_traps": "0",
+                        "moving_silently": "-5",
+                        "hiding_in_shadows": "0"
+                    }
+                },
+                "13": {
+                    "reaction_adjustment": "0",
+                    "defense_adjustment": "0",
+                    "thief_skills": {
+                        "pick_pocketing": "0",
+                        "opening_locks": "0",
+                        "locating_removing_traps": "0",
+                        "moving_silently": "0",
+                        "hiding_in_shadows": "0"
+                    }
+                },
+                "14": {
+                    "reaction_adjustment": "0",
+                    "defense_adjustment": "0",
+                    "thief_skills": {
+                        "pick_pocketing": "0",
+                        "opening_locks": "0",
+                        "locating_removing_traps": "0",
+                        "moving_silently": "0",
+                        "hiding_in_shadows": "0"
+                    }
+                },
+                "15": {
+                    "reaction_adjustment": "0",
+                    "defense_adjustment": "-1",
+                    "thief_skills": {
+                        "pick_pocketing": "0",
+                        "opening_locks": "0",
+                        "locating_removing_traps": "0",
+                        "moving_silently": "0",
+                        "hiding_in_shadows": "0"
+                    }
+                },
+                "16": {
+                    "reaction_adjustment": "1",
+                    "defense_adjustment": "-2",
+                    "thief_skills": {
+                        "pick_pocketing": "0",
+                        "opening_locks": "5",
+                        "locating_removing_traps": "0",
+                        "moving_silently": "0",
+                        "hiding_in_shadows": "0"
+                    }
+                },
+                "17": {
+                    "reaction_adjustment": "2",
+                    "defense_adjustment": "-3",
+                    "thief_skills": {
+                        "pick_pocketing": "5",
+                        "opening_locks": "10",
+                        "locating_removing_traps": "0",
+                        "moving_silently": "5",
+                        "hiding_in_shadows": "5"
+                    }
+                },
+                "18": {
+                    "reaction_adjustment": "3",
+                    "defense_adjustment": "-4",
+                    "thief_skills": {
+                        "pick_pocketing": "10",
+                        "opening_locks": "15",
+                        "locating_removing_traps": "5",
+                        "moving_silently": "10",
+                        "hiding_in_shadows": "10"
+                    }
+                }
+            }
+        }},
+        {"constitution": {
+            "ability_score": {
+                "3": {
+                    "hit_point_adjustment": "-2",
+                    "system_shock_survival": "35",
+                    "resurrection_survival": "40"
+                },
+                "4": {
+                    "hit_point_adjustment": "-1",
+                    "system_shock_survival": "40",
+                    "resurrection_survival": "45"
+                },
+                "5": {
+                    "hit_point_adjustment": "-1",
+                    "system_shock_survival": "45",
+                    "resurrection_survival": "50"
+                },
+                "6": {
+                    "hit_point_adjustment": "-1",
+                    "system_shock_survival": "50",
+                    "resurrection_survival": "55"
+                },
+                "7": {
+                    "hit_point_adjustment": "0",
+                    "system_shock_survival": "55",
+                    "resurrection_survival": "60"
+                },
+                "8": {
+                    "hit_point_adjustment": "0",
+                    "system_shock_survival": "60",
+                    "resurrection_survival": "65"
+                },
+                "9": {
+                    "hit_point_adjustment": "0",
+                    "system_shock_survival": "65",
+                    "resurrection_survival": "70"
+                },
+                "10": {
+                    "hit_point_adjustment": "0",
+                    "system_shock_survival": "70",
+                    "resurrection_survival": "75"
+                },
+                "11": {
+                    "hit_point_adjustment": "0",
+                    "system_shock_survival": "75",
+                    "resurrection_survival": "80"
+                },
+                "12": {
+                    "hit_point_adjustment": "0",
+                    "system_shock_survival": "80",
+                    "resurrection_survival": "85"
+                },
+                "13": {
+                    "hit_point_adjustment": "0",
+                    "system_shock_survival": "85",
+                    "resurrection_survival": "90"
+                },
+                "14": {
+                    "hit_point_adjustment": "0",
+                    "system_shock_survival": "88",
+                    "resurrection_survival": "92"
+                },
+                "15": {
+                    "hit_point_adjustment": "1",
+                    "system_shock_survival": "91",
+                    "resurrection_survival": "94"
+                },
+                "16": {
+                    "hit_point_adjustment": "2",
+                    "system_shock_survival": "95",
+                    "resurrection_survival": "96"
+                },
+                "17": {
+                    "hit_point_adjustment": "2 (3)*",
+                    "system_shock_survival": "97",
+                    "resurrection_survival": "98"
+                },
+                "18": {
+                    "hit_point_adjustment": "2 (4)*",
+                    "system_shock_survival": "99",
+                    "resurrection_survival": "100"
+                }
+            }
+        }},
+        {"charisma": {
+            "ability_score": {
+                "3": {
+                    "maximum_henchmen": "1",
+                    "loyalty_base": "-30",
+                    "reaction_adjustment": "-25"
+                },
+                "4": {
+                    "maximum_henchmen": "1",
+                    "loyalty_base": "-25",
+                    "reaction_adjustment": "-15"
+                },
+                "5": {
+                    "maximum_henchmen": "2",
+                    "loyalty_base": "-15",
+                    "reaction_adjustment": "-10"
+                },
+                "6": {
+                    "maximum_henchmen": "2",
+                    "loyalty_base": "-10",
+                    "reaction_adjustment": "-5"
+                },
+                "7": {
+                    "maximum_henchmen": "3",
+                    "loyalty_base": "-5",
+                    "reaction_adjustment": "0"
+                },
+                "8": {
+                    "maximum_henchmen": "3",
+                    "loyalty_base": "0",
+                    "reaction_adjustment": "0"
+                },
+                "9": {
+                    "maximum_henchmen": "4",
+                    "loyalty_base": "0",
+                    "reaction_adjustment": "0"
+                },
+                "10": {
+                    "maximum_henchmen": "4",
+                    "loyalty_base": "0",
+                    "reaction_adjustment": "0"
+                },
+                "11": {
+                    "maximum_henchmen": "4",
+                    "loyalty_base": "0",
+                    "reaction_adjustment": "0"
+                },
+                "12": {
+                    "maximum_henchmen": "5",
+                    "loyalty_base": "0",
+                    "reaction_adjustment": "0"
+                },
+                "13": {
+                    "maximum_henchmen": "5",
+                    "loyalty_base": "0",
+                    "reaction_adjustment": "5"
+                },
+                "14": {
+                    "maximum_henchmen": "6",
+                    "loyalty_base": "5",
+                    "reaction_adjustment": "10"
+                },
+                "15": {
+                    "maximum_henchmen": "7",
+                    "loyalty_base": "15",
+                    "reaction_adjustment": "15"
+                },
+                "16": {
+                    "maximum_henchmen": "8",
+                    "loyalty_base": "20",
+                    "reaction_adjustment": "25"
+                },
+                "17": {
+                    "maximum_henchmen": "10",
+                    "loyalty_base": "30",
+                    "reaction_adjustment": "30"
+                },
+                "18": {
+                    "maximum_henchmen": "15",
+                    "loyalty_base": "40",
+                    "reaction_adjustment": "35"
+                }
+            }
+        }}
+    ]
+}
