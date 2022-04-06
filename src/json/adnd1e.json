@@ -551,6 +551,38 @@
                 "constitution": "",
                 "charisma": "",
                 "bonus": ""
+            },
+            "saving throws": {
+                "paralyzation_poison_death_magic": "",
+                "petrification_polymorph": "",
+                "rod_staff_wand": "",
+                "breath_weapon": "",
+                "spell": ""
+            },
+            "to_hit": {
+                "1": {
+                    "-10": "",
+                    "-9": "",
+                    "-8": "",
+                    "-7": "",
+                    "-6": "",
+                    "-5": "",
+                    "-4": "",
+                    "-3": "",
+                    "-2": "",
+                    "-1": "",
+                    "0": "",
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "",
+                    "6": "",
+                    "7": "",
+                    "8": "",
+                    "9": "",
+                    "10": ""
+                }
             }
         }},
         {"druid": {
@@ -652,112 +684,112 @@
                     "damage_adjustment": "-1",
                     "weight_allowance": "-350",
                     "open_doors_on_a": "1",
-                    "bend_bars_lift_gates": "0"
+                    "bend_bars_lift_gates": "0%"
                 },
                 "4": {
                     "hit_probability": "-2",
                     "damage_adjustment": "-1",
                     "weight_allowance": "-250",
                     "open_doors_on_a": "1",
-                    "bend_bars_lift_gates": "0"
+                    "bend_bars_lift_gates": "0%"
                 },
                 "5": {
                     "hit_probability": "-2",
                     "damage_adjustment": "-1",
                     "weight_allowance": "-250",
                     "open_doors_on_a": "1",
-                    "bend_bars_lift_gates": "0"
+                    "bend_bars_lift_gates": "0%"
                 },
                 "6": {
                     "hit_probability": "-1",
                     "damage_adjustment": "0",
                     "weight_allowance": "-150",
                     "open_doors_on_a": "1",
-                    "bend_bars_lift_gates": "0"
+                    "bend_bars_lift_gates": "0%"
                 },
                 "7": {
                     "hit_probability": "-1",
                     "damage_adjustment": "0",
                     "weight_allowance": "-150",
                     "open_doors_on_a": "1",
-                    "bend_bars_lift_gates": "0"
+                    "bend_bars_lift_gates": "0%"
                 },
                 "8": {
                     "hit_probability": "0",
                     "damage_adjustment": "0",
                     "weight_allowance": "0",
                     "open_doors_on_a": "1-2",
-                    "bend_bars_lift_gates": "1"
+                    "bend_bars_lift_gates": "1%"
                 },
                 "9": {
                     "hit_probability": "0",
                     "damage_adjustment": "0",
                     "weight_allowance": "0",
                     "open_doors_on_a": "1-2",
-                    "bend_bars_lift_gates": "1"
+                    "bend_bars_lift_gates": "1%"
                 },
                 "10": {
                     "hit_probability": "0",
                     "damage_adjustment": "0",
                     "weight_allowance": "0",
                     "open_doors_on_a": "1-2",
-                    "bend_bars_lift_gates": "2"
+                    "bend_bars_lift_gates": "2%"
                 },
                 "11": {
                     "hit_probability": "0",
                     "damage_adjustment": "0",
                     "weight_allowance": "0",
                     "open_doors_on_a": "1-2",
-                    "bend_bars_lift_gates": "2"
+                    "bend_bars_lift_gates": "2%"
                 },
                 "12": {
                     "hit_probability": "0",
                     "damage_adjustment": "0",
                     "weight_allowance": "100",
                     "open_doors_on_a": "1-2",
-                    "bend_bars_lift_gates": "4"
+                    "bend_bars_lift_gates": "4%"
                 },
                 "13": {
                     "hit_probability": "0",
                     "damage_adjustment": "0",
                     "weight_allowance": "100",
                     "open_doors_on_a": "1-2",
-                    "bend_bars_lift_gates": "4"
+                    "bend_bars_lift_gates": "4%"
                 },
                 "14": {
                     "hit_probability": "0",
                     "damage_adjustment": "0",
                     "weight_allowance": "200",
                     "open_doors_on_a": "1-2",
-                    "bend_bars_lift_gates": "7"
+                    "bend_bars_lift_gates": "7%"
                 },
                 "15": {
                     "hit_probability": "0",
                     "damage_adjustment": "0",
                     "weight_allowance": "200",
                     "open_doors_on_a": "1-2",
-                    "bend_bars_lift_gates": "7"
+                    "bend_bars_lift_gates": "7%"
                 },
                 "16": {
                     "hit_probability": "0",
                     "damage_adjustment": "1",
                     "weight_allowance": "350",
                     "open_doors_on_a": "1-3",
-                    "bend_bars_lift_gates": "10"
+                    "bend_bars_lift_gates": "10%"
                 },
                 "17": {
                     "hit_probability": "1",
                     "damage_adjustment": "1",
                     "weight_allowance": "500",
                     "open_doors_on_a": "1-3",
-                    "bend_bars_lift_gates": "13"
+                    "bend_bars_lift_gates": "13%"
                 },
                 "18": {
                     "hit_probability": "+1",
                     "damage_adjustment": "2",
                     "weight_allowance": "750",
                     "open_doors_on_a": "1-3",
-                    "bend_bars_lift_gates": "16"
+                    "bend_bars_lift_gates": "16%"
                 }
             }
         }},
@@ -801,61 +833,61 @@
                 },
                 "9": {
                     "max_language": "1",
-                    "know_spell": "35",
+                    "know_spell": "35%",
                     "min_spell": "4",
                     "max_spell": "6"
                 },
                 "10": {
                     "max_language": "2",
-                    "know_spell": "45",
+                    "know_spell": "45%",
                     "min_spell": "5",
                     "max_spell": "7"
                 },
                 "11": {
                     "max_language": "2",
-                    "know_spell": "45",
+                    "know_spell": "45%",
                     "min_spell": "5",
                     "max_spell": "7"
                 },
                 "12": {
                     "max_language": "3",
-                    "know_spell": "45",
+                    "know_spell": "45%",
                     "min_spell": "5",
                     "max_spell": "7"
                 },
                 "13": {
                     "max_language": "3",
-                    "know_spell": "55",
+                    "know_spell": "55%",
                     "min_spell": "6",
                     "max_spell": "9"
                 },
                 "14": {
                     "max_language": "4",
-                    "know_spell": "55",
+                    "know_spell": "55%",
                     "min_spell": "6",
                     "max_spell": "9"
                 },
                 "15": {
                     "max_language": "4",
-                    "know_spell": "65",
+                    "know_spell": "65%",
                     "min_spell": "7",
                     "max_spell": "11"
                 },
                 "16": {
                     "max_language": "5",
-                    "know_spell": "65",
+                    "know_spell": "65%",
                     "min_spell": "7",
                     "max_spell": "11"
                 },
                 "17": {
                     "max_language": "6",
-                    "know_spell": "75",
+                    "know_spell": "75%",
                     "min_spell": "8",
                     "max_spell": "14"
                 },
                 "18": {
                     "max_language": "7",
-                    "know_spell": "85",
+                    "know_spell": "85%",
                     "min_spell": "9",
                     "max_spell": "18"
                 }
@@ -896,32 +928,32 @@
                 "9": {
                     "magical_attack_adjustment": "0",
                     "spell_bonus": "NA",
-                    "spell_failure": "20"
+                    "spell_failure": "20%"
                 },
                 "10": {
                     "magical_attack_adjustment": "0",
                     "spell_bonus": "NA",
-                    "spell_failure": "15"
+                    "spell_failure": "15%"
                 },
                 "11": {
                     "magical_attack_adjustment": "0",
                     "spell_bonus": "NA",
-                    "spell_failure": "10"
+                    "spell_failure": "10%"
                 },
                 "12": {
                     "magical_attack_adjustment": "0",
                     "spell_bonus": "NA",
-                    "spell_failure": "5"
+                    "spell_failure": "5%"
                 },
                 "13": {
                     "magical_attack_adjustment": "0",
                     "spell_bonus": "1 Lvl 1",
-                    "spell_failure": "0"
+                    "spell_failure": "0%"
                 },
                 "14": {
                     "magical_attack_adjustment": "0",
                     "spell_bonus": "1 Lvl 1",
-                    "spell_failure": "0"
+                    "spell_failure": "0%"
                 },
                 "15": {
                     "magical_attack_adjustment": "1",
@@ -931,24 +963,24 @@
                 "16": {
                     "magical_attack_adjustment": "2",
                     "spell_bonus": "1 Lvl 2",
-                    "spell_failure": "0"
+                    "spell_failure": "0%"
                 },
                 "17": {
                     "magical_attack_adjustment": "3",
                     "spell_bonus": "1 Lvl 3",
-                    "spell_failure": "0"
+                    "spell_failure": "0%"
                 },
                 "18": {
                     "magical_attack_adjustment": "4",
                     "spell_bonus": "1 Lvl 4",
-                    "spell_failure": "0"
+                    "spell_failure": "0%"
                 }
             }
         }},
         {"dexterity": {
             "ability_score": {
                 "3": {
-                    "reaction_adjustment": "-3",
+                    "react_adjustment": "-3",
                     "defense_adjustment": "4",
                     "thief_skills": {
                         "pick_pocketing": "NA",
@@ -959,7 +991,7 @@
                     }
                 },
                 "4": {
-                    "reaction_adjustment": "-2",
+                    "react_adjustment": "-2",
                     "defense_adjustment": "3",
                     "thief_skills": {
                         "pick_pocketing": "NA",
@@ -970,7 +1002,7 @@
                     }
                 },
                 "5": {
-                    "reaction_adjustment": "-1",
+                    "react_adjustment": "-1",
                     "defense_adjustment": "2",
                     "thief_skills": {
                         "pick_pocketing": "NA",
@@ -981,7 +1013,7 @@
                     }
                 },
                 "6": {
-                    "reaction_adjustment": "0",
+                    "react_adjustment": "0",
                     "defense_adjustment": "1",
                     "thief_skills": {
                         "pick_pocketing": "NA",
@@ -992,7 +1024,7 @@
                     }
                 },
                 "7": {
-                    "reaction_adjustment": "0",
+                    "react_adjustment": "0",
                     "defense_adjustment": "0",
                     "thief_skills": {
                         "pick_pocketing": "NA",
@@ -1003,7 +1035,7 @@
                     }
                 },
                 "8": {
-                    "reaction_adjustment": "0",
+                    "react_adjustment": "0",
                     "defense_adjustment": "0",
                     "thief_skills": {
                         "pick_pocketing": "NA",
@@ -1014,7 +1046,7 @@
                     }
                 },
                 "9": {
-                    "reaction_adjustment": "0",
+                    "react_adjustment": "0",
                     "defense_adjustment": "0",
                     "thief_skills": {
                         "pick_pocketing": "-15",
@@ -1025,7 +1057,7 @@
                     }
                 },
                 "10": {
-                    "reaction_adjustment": "0",
+                    "react_adjustment": "0",
                     "defense_adjustment": "0",
                     "thief_skills": {
                         "pick_pocketing": "-10",
@@ -1036,7 +1068,7 @@
                     }
                 },
                 "11": {
-                    "reaction_adjustment": "0",
+                    "react_adjustment": "0",
                     "defense_adjustment": "0",
                     "thief_skills": {
                         "pick_pocketing": "-5",
@@ -1047,7 +1079,7 @@
                     }
                 },
                 "12": {
-                    "reaction_adjustment": "0",
+                    "react_adjustment": "0",
                     "defense_adjustment": "0",
                     "thief_skills": {
                         "pick_pocketing": "0",
@@ -1058,7 +1090,7 @@
                     }
                 },
                 "13": {
-                    "reaction_adjustment": "0",
+                    "react_adjustment": "0",
                     "defense_adjustment": "0",
                     "thief_skills": {
                         "pick_pocketing": "0",
@@ -1069,7 +1101,7 @@
                     }
                 },
                 "14": {
-                    "reaction_adjustment": "0",
+                    "react_adjustment": "0",
                     "defense_adjustment": "0",
                     "thief_skills": {
                         "pick_pocketing": "0",
@@ -1080,7 +1112,7 @@
                     }
                 },
                 "15": {
-                    "reaction_adjustment": "0",
+                    "react_adjustment": "0",
                     "defense_adjustment": "-1",
                     "thief_skills": {
                         "pick_pocketing": "0",
@@ -1091,7 +1123,7 @@
                     }
                 },
                 "16": {
-                    "reaction_adjustment": "1",
+                    "react_adjustment": "1",
                     "defense_adjustment": "-2",
                     "thief_skills": {
                         "pick_pocketing": "0",
@@ -1102,7 +1134,7 @@
                     }
                 },
                 "17": {
-                    "reaction_adjustment": "2",
+                    "react_adjustment": "2",
                     "defense_adjustment": "-3",
                     "thief_skills": {
                         "pick_pocketing": "5",
@@ -1113,7 +1145,7 @@
                     }
                 },
                 "18": {
-                    "reaction_adjustment": "3",
+                    "react_adjustment": "3",
                     "defense_adjustment": "-4",
                     "thief_skills": {
                         "pick_pocketing": "10",
@@ -1129,83 +1161,83 @@
             "ability_score": {
                 "3": {
                     "hit_point_adjustment": "-2",
-                    "system_shock_survival": "35",
-                    "resurrection_survival": "40"
+                    "system_shock_survival": "35%",
+                    "resurrection_survival": "40%"
                 },
                 "4": {
                     "hit_point_adjustment": "-1",
-                    "system_shock_survival": "40",
-                    "resurrection_survival": "45"
+                    "system_shock_survival": "40%",
+                    "resurrection_survival": "45%"
                 },
                 "5": {
                     "hit_point_adjustment": "-1",
-                    "system_shock_survival": "45",
-                    "resurrection_survival": "50"
+                    "system_shock_survival": "45%",
+                    "resurrection_survival": "50%"
                 },
                 "6": {
                     "hit_point_adjustment": "-1",
-                    "system_shock_survival": "50",
-                    "resurrection_survival": "55"
+                    "system_shock_survival": "50%",
+                    "resurrection_survival": "55%"
                 },
                 "7": {
                     "hit_point_adjustment": "0",
-                    "system_shock_survival": "55",
-                    "resurrection_survival": "60"
+                    "system_shock_survival": "55%",
+                    "resurrection_survival": "60%"
                 },
                 "8": {
                     "hit_point_adjustment": "0",
-                    "system_shock_survival": "60",
-                    "resurrection_survival": "65"
+                    "system_shock_survival": "60%",
+                    "resurrection_survival": "65%"
                 },
                 "9": {
                     "hit_point_adjustment": "0",
-                    "system_shock_survival": "65",
-                    "resurrection_survival": "70"
+                    "system_shock_survival": "65%",
+                    "resurrection_survival": "70%"
                 },
                 "10": {
                     "hit_point_adjustment": "0",
-                    "system_shock_survival": "70",
-                    "resurrection_survival": "75"
+                    "system_shock_survival": "70%",
+                    "resurrection_survival": "75%"
                 },
                 "11": {
                     "hit_point_adjustment": "0",
-                    "system_shock_survival": "75",
-                    "resurrection_survival": "80"
+                    "system_shock_survival": "75%",
+                    "resurrection_survival": "80%"
                 },
                 "12": {
                     "hit_point_adjustment": "0",
-                    "system_shock_survival": "80",
-                    "resurrection_survival": "85"
+                    "system_shock_survival": "80%",
+                    "resurrection_survival": "85%"
                 },
                 "13": {
                     "hit_point_adjustment": "0",
-                    "system_shock_survival": "85",
-                    "resurrection_survival": "90"
+                    "system_shock_survival": "85%",
+                    "resurrection_survival": "90%"
                 },
                 "14": {
                     "hit_point_adjustment": "0",
-                    "system_shock_survival": "88",
-                    "resurrection_survival": "92"
+                    "system_shock_survival": "88%",
+                    "resurrection_survival": "92%"
                 },
                 "15": {
                     "hit_point_adjustment": "1",
-                    "system_shock_survival": "91",
-                    "resurrection_survival": "94"
+                    "system_shock_survival": "91%",
+                    "resurrection_survival": "94%"
                 },
                 "16": {
                     "hit_point_adjustment": "2",
-                    "system_shock_survival": "95",
-                    "resurrection_survival": "96"
+                    "system_shock_survival": "95%",
+                    "resurrection_survival": "96%"
                 },
                 "17": {
                     "hit_point_adjustment": "2 (3)*",
-                    "system_shock_survival": "97",
-                    "resurrection_survival": "98"
+                    "system_shock_survival": "97%",
+                    "resurrection_survival": "98%"
                 },
                 "18": {
                     "hit_point_adjustment": "2 (4)*",
-                    "system_shock_survival": "99",
-                    "resurrection_survival": "100"
+                    "system_shock_survival": "99%",
+                    "resurrection_survival": "100%"
                 }
             }
         }},
@@ -1213,83 +1245,83 @@
             "ability_score": {
                 "3": {
                     "maximum_henchmen": "1",
-                    "loyalty_base": "-30",
-                    "reaction_adjustment": "-25"
+                    "loyalty_base": "-30%",
+                    "reaction_adjustment": "-25%"
                 },
                 "4": {
                     "maximum_henchmen": "1",
-                    "loyalty_base": "-25",
-                    "reaction_adjustment": "-15"
+                    "loyalty_base": "-25%",
+                    "reaction_adjustment": "-15%"
                 },
                 "5": {
                     "maximum_henchmen": "2",
-                    "loyalty_base": "-15",
-                    "reaction_adjustment": "-10"
+                    "loyalty_base": "-15%",
+                    "reaction_adjustment": "-10%"
                 },
                 "6": {
                     "maximum_henchmen": "2",
-                    "loyalty_base": "-10",
-                    "reaction_adjustment": "-5"
+                    "loyalty_base": "-10%",
+                    "reaction_adjustment": "-5%"
                 },
                 "7": {
                     "maximum_henchmen": "3",
-                    "loyalty_base": "-5",
-                    "reaction_adjustment": "0"
+                    "loyalty_base": "-5%",
+                    "reaction_adjustment": "0%"
                 },
                 "8": {
                     "maximum_henchmen": "3",
-                    "loyalty_base": "0",
-                    "reaction_adjustment": "0"
+                    "loyalty_base": "0%",
+                    "reaction_adjustment": "0%"
                 },
                 "9": {
                     "maximum_henchmen": "4",
-                    "loyalty_base": "0",
-                    "reaction_adjustment": "0"
+                    "loyalty_base": "0%",
+                    "reaction_adjustment": "0%"
                 },
                 "10": {
                     "maximum_henchmen": "4",
-                    "loyalty_base": "0",
-                    "reaction_adjustment": "0"
+                    "loyalty_base": "0%",
+                    "reaction_adjustment": "0%"
                 },
                 "11": {
                     "maximum_henchmen": "4",
-                    "loyalty_base": "0",
-                    "reaction_adjustment": "0"
+                    "loyalty_base": "0%",
+                    "reaction_adjustment": "0%"
                 },
                 "12": {
                     "maximum_henchmen": "5",
-                    "loyalty_base": "0",
-                    "reaction_adjustment": "0"
+                    "loyalty_base": "0%",
+                    "reaction_adjustment": "0%"
                 },
                 "13": {
                     "maximum_henchmen": "5",
-                    "loyalty_base": "0",
-                    "reaction_adjustment": "5"
+                    "loyalty_base": "0%",
+                    "reaction_adjustment": "5%"
                 },
                 "14": {
                     "maximum_henchmen": "6",
-                    "loyalty_base": "5",
-                    "reaction_adjustment": "10"
+                    "loyalty_base": "5%",
+                    "reaction_adjustment": "10%"
                 },
                 "15": {
                     "maximum_henchmen": "7",
-                    "loyalty_base": "15",
-                    "reaction_adjustment": "15"
+                    "loyalty_base": "15%",
+                    "reaction_adjustment": "15%"
                 },
                 "16": {
                     "maximum_henchmen": "8",
-                    "loyalty_base": "20",
-                    "reaction_adjustment": "25"
+                    "loyalty_base": "20%",
+                    "reaction_adjustment": "25%"
                 },
                 "17": {
                     "maximum_henchmen": "10",
-                    "loyalty_base": "30",
-                    "reaction_adjustment": "30"
+                    "loyalty_base": "30%",
+                    "reaction_adjustment": "30%"
                 },
                 "18": {
                     "maximum_henchmen": "15",
-                    "loyalty_base": "40",
-                    "reaction_adjustment": "35"
+                    "loyalty_base": "40%",
+                    "reaction_adjustment": "35%"
                 }
             }
         }}
