@@ -37,6 +37,27 @@
   }
 }
 
+.health {
+  border: 5px solid #111;
+  text-align: center;
+  padding: 1px 4px 1px 4px;
+}
+
+.shield {
+  height: 26px;
+  width: 26px;
+  border: 5px solid #111;
+  border-radius: 50% 50% 50% 50% / 12% 12% 88% 88%;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+.test{
+  /* white-space: nowrap; */
+}
+.test * {
+  display: inline;
+}
+
 .stats{
   display: grid;
 }
@@ -89,4 +110,11 @@
   height: 30px;
   padding: 0px 0px 0px 0px;
   background-color: #d3d3d3;
+}
+
+.testtwo{
+  display: block;
+}
+.testthree{
+  display: inline-block;
 }

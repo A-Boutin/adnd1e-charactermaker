@@ -553,11 +553,139 @@
                 "bonus": ""
             },
             "saving throws": {
-                "paralyzation_poison_death_magic": "",
-                "petrification_polymorph": "",
-                "rod_staff_wand": "",
-                "breath_weapon": "",
-                "spell": ""
+                "1": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "13",
+                    "rod_staff_wand": "14",
+                    "breath_weapon": "16",
+                    "spell": "15"
+                },
+                "2": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "13",
+                    "rod_staff_wand": "14",
+                    "breath_weapon": "16",
+                    "spell": "15"
+                },
+                "3": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "13",
+                    "rod_staff_wand": "14",
+                    "breath_weapon": "16",
+                    "spell": "15"
+                },
+                "4": {
+                    "paralyzation_poison_death_magic": "9",
+                    "petrification_polymorph": "12",
+                    "rod_staff_wand": "14",
+                    "breath_weapon": "16",
+                    "spell": "15"
+                },
+                "5": {
+                    "paralyzation_poison_death_magic": "9",
+                    "petrification_polymorph": "12",
+                    "rod_staff_wand": "14",
+                    "breath_weapon": "16",
+                    "spell": "15"
+                },
+                "6": {
+                    "paralyzation_poison_death_magic": "9",
+                    "petrification_polymorph": "12",
+                    "rod_staff_wand": "14",
+                    "breath_weapon": "16",
+                    "spell": "15"
+                },
+                "7": {
+                    "paralyzation_poison_death_magic": "7",
+                    "petrification_polymorph": "10",
+                    "rod_staff_wand": "11",
+                    "breath_weapon": "13",
+                    "spell": "12"
+                },
+                "8": {
+                    "paralyzation_poison_death_magic": "7",
+                    "petrification_polymorph": "10",
+                    "rod_staff_wand": "11",
+                    "breath_weapon": "13",
+                    "spell": "12"
+                },
+                "9": {
+                    "paralyzation_poison_death_magic": "7",
+                    "petrification_polymorph": "10",
+                    "rod_staff_wand": "11",
+                    "breath_weapon": "13",
+                    "spell": "12"
+                },
+                "10": {
+                    "paralyzation_poison_death_magic": "6",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "10",
+                    "breath_weapon": "12",
+                    "spell": "11"
+                },
+                "11": {
+                    "paralyzation_poison_death_magic": "6",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "10",
+                    "breath_weapon": "12",
+                    "spell": "11"
+                },
+                "12": {
+                    "paralyzation_poison_death_magic": "6",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "10",
+                    "breath_weapon": "12",
+                    "spell": "11"
+                },
+                "13": {
+                    "paralyzation_poison_death_magic": "5",
+                    "petrification_polymorph": "8",
+                    "rod_staff_wand": "9",
+                    "breath_weapon": "11",
+                    "spell": "10"
+                },
+                "14": {
+                    "paralyzation_poison_death_magic": "5",
+                    "petrification_polymorph": "8",
+                    "rod_staff_wand": "9",
+                    "breath_weapon": "11",
+                    "spell": "10"
+                },
+                "15": {
+                    "paralyzation_poison_death_magic": "5",
+                    "petrification_polymorph": "8",
+                    "rod_staff_wand": "9",
+                    "breath_weapon": "11",
+                    "spell": "10"
+                },
+                "16": {
+                    "paralyzation_poison_death_magic": "4",
+                    "petrification_polymorph": "7",
+                    "rod_staff_wand": "8",
+                    "breath_weapon": "10",
+                    "spell": "9"
+                },
+                "17": {
+                    "paralyzation_poison_death_magic": "4",
+                    "petrification_polymorph": "7",
+                    "rod_staff_wand": "8",
+                    "breath_weapon": "10",
+                    "spell": "9"
+                },
+                "18": {
+                    "paralyzation_poison_death_magic": "4",
+                    "petrification_polymorph": "7",
+                    "rod_staff_wand": "8",
+                    "breath_weapon": "10",
+                    "spell": "9"
+                },
+                "19": {
+                    "paralyzation_poison_death_magic": "2",
+                    "petrification_polymorph": "5",
+                    "rod_staff_wand": "6",
+                    "breath_weapon": "8",
+                    "spell": "7"
+                }
             },
             "to_hit": {
                 "1": {
@@ -593,6 +721,175 @@
                 "dexterity": "",
                 "constitution": "",
                 "charisma": ""
+            },
+            "experience_bonus": {
+                "strength": "",
+                "intelligence": "",
+                "wisdom": "",
+                "dexterity": "",
+                "constitution": "",
+                "charisma": "",
+                "bonus": ""
+            },
+            "saving throws": {
+                "1": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "13",
+                    "rod_staff_wand": "14",
+                    "breath_weapon": "16",
+                    "spell": "15"
+                },
+                "2": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "13",
+                    "rod_staff_wand": "14",
+                    "breath_weapon": "16",
+                    "spell": "15"
+                },
+                "3": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "13",
+                    "rod_staff_wand": "14",
+                    "breath_weapon": "16",
+                    "spell": "15"
+                },
+                "4": {
+                    "paralyzation_poison_death_magic": "9",
+                    "petrification_polymorph": "12",
+                    "rod_staff_wand": "14",
+                    "breath_weapon": "16",
+                    "spell": "15"
+                },
+                "5": {
+                    "paralyzation_poison_death_magic": "9",
+                    "petrification_polymorph": "12",
+                    "rod_staff_wand": "14",
+                    "breath_weapon": "16",
+                    "spell": "15"
+                },
+                "6": {
+                    "paralyzation_poison_death_magic": "9",
+                    "petrification_polymorph": "12",
+                    "rod_staff_wand": "14",
+                    "breath_weapon": "16",
+                    "spell": "15"
+                },
+                "7": {
+                    "paralyzation_poison_death_magic": "7",
+                    "petrification_polymorph": "10",
+                    "rod_staff_wand": "11",
+                    "breath_weapon": "13",
+                    "spell": "12"
+                },
+                "8": {
+                    "paralyzation_poison_death_magic": "7",
+                    "petrification_polymorph": "10",
+                    "rod_staff_wand": "11",
+                    "breath_weapon": "13",
+                    "spell": "12"
+                },
+                "9": {
+                    "paralyzation_poison_death_magic": "7",
+                    "petrification_polymorph": "10",
+                    "rod_staff_wand": "11",
+                    "breath_weapon": "13",
+                    "spell": "12"
+                },
+                "10": {
+                    "paralyzation_poison_death_magic": "6",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "10",
+                    "breath_weapon": "12",
+                    "spell": "11"
+                },
+                "11": {
+                    "paralyzation_poison_death_magic": "6",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "10",
+                    "breath_weapon": "12",
+                    "spell": "11"
+                },
+                "12": {
+                    "paralyzation_poison_death_magic": "6",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "10",
+                    "breath_weapon": "12",
+                    "spell": "11"
+                },
+                "13": {
+                    "paralyzation_poison_death_magic": "5",
+                    "petrification_polymorph": "8",
+                    "rod_staff_wand": "9",
+                    "breath_weapon": "11",
+                    "spell": "10"
+                },
+                "14": {
+                    "paralyzation_poison_death_magic": "5",
+                    "petrification_polymorph": "8",
+                    "rod_staff_wand": "9",
+                    "breath_weapon": "11",
+                    "spell": "10"
+                },
+                "15": {
+                    "paralyzation_poison_death_magic": "5",
+                    "petrification_polymorph": "8",
+                    "rod_staff_wand": "9",
+                    "breath_weapon": "11",
+                    "spell": "10"
+                },
+                "16": {
+                    "paralyzation_poison_death_magic": "4",
+                    "petrification_polymorph": "7",
+                    "rod_staff_wand": "8",
+                    "breath_weapon": "10",
+                    "spell": "9"
+                },
+                "17": {
+                    "paralyzation_poison_death_magic": "4",
+                    "petrification_polymorph": "7",
+                    "rod_staff_wand": "8",
+                    "breath_weapon": "10",
+                    "spell": "9"
+                },
+                "18": {
+                    "paralyzation_poison_death_magic": "4",
+                    "petrification_polymorph": "7",
+                    "rod_staff_wand": "8",
+                    "breath_weapon": "10",
+                    "spell": "9"
+                },
+                "19": {
+                    "paralyzation_poison_death_magic": "2",
+                    "petrification_polymorph": "5",
+                    "rod_staff_wand": "6",
+                    "breath_weapon": "8",
+                    "spell": "7"
+                }
+            },
+            "to_hit": {
+                "1": {
+                    "-10": "",
+                    "-9": "",
+                    "-8": "",
+                    "-7": "",
+                    "-6": "",
+                    "-5": "",
+                    "-4": "",
+                    "-3": "",
+                    "-2": "",
+                    "-1": "",
+                    "0": "",
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "",
+                    "6": "",
+                    "7": "",
+                    "8": "",
+                    "9": "",
+                    "10": ""
+                }
             }
         }},
         {"fighter": {
@@ -603,6 +900,168 @@
                 "dexterity": "",
                 "constitution": "",
                 "charisma": ""
+            },
+            "experience_bonus": {
+                "strength": "",
+                "intelligence": "",
+                "wisdom": "",
+                "dexterity": "",
+                "constitution": "",
+                "charisma": "",
+                "bonus": ""
+            },
+            "saving throws": {
+                "0": {
+                    "paralyzation_poison_death_magic": "16",
+                    "petrification_polymorph": "17",
+                    "rod_staff_wand": "18",
+                    "breath_weapon": "20",
+                    "spell": "19"
+                },
+                "1": {
+                    "paralyzation_poison_death_magic": "14",
+                    "petrification_polymorph": "15",
+                    "rod_staff_wand": "16",
+                    "breath_weapon": "17",
+                    "spell": "17"
+                },
+                "2": {
+                    "paralyzation_poison_death_magic": "14",
+                    "petrification_polymorph": "15",
+                    "rod_staff_wand": "16",
+                    "breath_weapon": "17",
+                    "spell": "17"
+                },
+                "3": {
+                    "paralyzation_poison_death_magic": "13",
+                    "petrification_polymorph": "14",
+                    "rod_staff_wand": "15",
+                    "breath_weapon": "16",
+                    "spell": "16"
+                },
+                "4": {
+                    "paralyzation_poison_death_magic": "13",
+                    "petrification_polymorph": "14",
+                    "rod_staff_wand": "15",
+                    "breath_weapon": "16",
+                    "spell": "16"
+                },
+                "5": {
+                    "paralyzation_poison_death_magic": "11",
+                    "petrification_polymorph": "12",
+                    "rod_staff_wand": "13",
+                    "breath_weapon": "13",
+                    "spell": "14"
+                },
+                "6": {
+                    "paralyzation_poison_death_magic": "11",
+                    "petrification_polymorph": "12",
+                    "rod_staff_wand": "13",
+                    "breath_weapon": "13",
+                    "spell": "14"
+                },
+                "7": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "11",
+                    "rod_staff_wand": "12",
+                    "breath_weapon": "12",
+                    "spell": "13"
+                },
+                "8": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "11",
+                    "rod_staff_wand": "12",
+                    "breath_weapon": "12",
+                    "spell": "13"
+                },
+                "9": {
+                    "paralyzation_poison_death_magic": "8",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "10",
+                    "breath_weapon": "9",
+                    "spell": "11"
+                },
+                "10": {
+                    "paralyzation_poison_death_magic": "8",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "10",
+                    "breath_weapon": "9",
+                    "spell": "11"
+                },
+                "11": {
+                    "paralyzation_poison_death_magic": "7",
+                    "petrification_polymorph": "8",
+                    "rod_staff_wand": "9",
+                    "breath_weapon": "8",
+                    "spell": "10"
+                },
+                "12": {
+                    "paralyzation_poison_death_magic": "7",
+                    "petrification_polymorph": "8",
+                    "rod_staff_wand": "9",
+                    "breath_weapon": "8",
+                    "spell": "10"
+                },
+                "13": {
+                    "paralyzation_poison_death_magic": "5",
+                    "petrification_polymorph": "6",
+                    "rod_staff_wand": "7",
+                    "breath_weapon": "5",
+                    "spell": "8"
+                },
+                "14": {
+                    "paralyzation_poison_death_magic": "5",
+                    "petrification_polymorph": "6",
+                    "rod_staff_wand": "7",
+                    "breath_weapon": "5",
+                    "spell": "8"
+                },
+                "15": {
+                    "paralyzation_poison_death_magic": "4",
+                    "petrification_polymorph": "5",
+                    "rod_staff_wand": "6",
+                    "breath_weapon": "4",
+                    "spell": "7"
+                },
+                "16": {
+                    "paralyzation_poison_death_magic": "4",
+                    "petrification_polymorph": "5",
+                    "rod_staff_wand": "6",
+                    "breath_weapon": "4",
+                    "spell": "7"
+                },
+                "17": {
+                    "paralyzation_poison_death_magic": "3",
+                    "petrification_polymorph": "4",
+                    "rod_staff_wand": "5",
+                    "breath_weapon": "4",
+                    "spell": "6"
+                }
+            },
+            "to_hit": {
+                "1": {
+                    "-10": "",
+                    "-9": "",
+                    "-8": "",
+                    "-7": "",
+                    "-6": "",
+                    "-5": "",
+                    "-4": "",
+                    "-3": "",
+                    "-2": "",
+                    "-1": "",
+                    "0": "",
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "",
+                    "6": "",
+                    "7": "",
+                    "8": "",
+                    "9": "",
+                    "10": ""
+                }
             }
         }},
         {"paladin": {
@@ -613,6 +1072,168 @@
                 "dexterity": "",
                 "constitution": "",
                 "charisma": ""
+            },
+            "experience_bonus": {
+                "strength": "",
+                "intelligence": "",
+                "wisdom": "",
+                "dexterity": "",
+                "constitution": "",
+                "charisma": "",
+                "bonus": ""
+            },
+            "saving throws": {
+                "0": {
+                    "paralyzation_poison_death_magic": "16",
+                    "petrification_polymorph": "17",
+                    "rod_staff_wand": "18",
+                    "breath_weapon": "20",
+                    "spell": "19"
+                },
+                "1": {
+                    "paralyzation_poison_death_magic": "14",
+                    "petrification_polymorph": "15",
+                    "rod_staff_wand": "16",
+                    "breath_weapon": "17",
+                    "spell": "17"
+                },
+                "2": {
+                    "paralyzation_poison_death_magic": "14",
+                    "petrification_polymorph": "15",
+                    "rod_staff_wand": "16",
+                    "breath_weapon": "17",
+                    "spell": "17"
+                },
+                "3": {
+                    "paralyzation_poison_death_magic": "13",
+                    "petrification_polymorph": "14",
+                    "rod_staff_wand": "15",
+                    "breath_weapon": "16",
+                    "spell": "16"
+                },
+                "4": {
+                    "paralyzation_poison_death_magic": "13",
+                    "petrification_polymorph": "14",
+                    "rod_staff_wand": "15",
+                    "breath_weapon": "16",
+                    "spell": "16"
+                },
+                "5": {
+                    "paralyzation_poison_death_magic": "11",
+                    "petrification_polymorph": "12",
+                    "rod_staff_wand": "13",
+                    "breath_weapon": "13",
+                    "spell": "14"
+                },
+                "6": {
+                    "paralyzation_poison_death_magic": "11",
+                    "petrification_polymorph": "12",
+                    "rod_staff_wand": "13",
+                    "breath_weapon": "13",
+                    "spell": "14"
+                },
+                "7": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "11",
+                    "rod_staff_wand": "12",
+                    "breath_weapon": "12",
+                    "spell": "13"
+                },
+                "8": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "11",
+                    "rod_staff_wand": "12",
+                    "breath_weapon": "12",
+                    "spell": "13"
+                },
+                "9": {
+                    "paralyzation_poison_death_magic": "8",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "10",
+                    "breath_weapon": "9",
+                    "spell": "11"
+                },
+                "10": {
+                    "paralyzation_poison_death_magic": "8",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "10",
+                    "breath_weapon": "9",
+                    "spell": "11"
+                },
+                "11": {
+                    "paralyzation_poison_death_magic": "7",
+                    "petrification_polymorph": "8",
+                    "rod_staff_wand": "9",
+                    "breath_weapon": "8",
+                    "spell": "10"
+                },
+                "12": {
+                    "paralyzation_poison_death_magic": "7",
+                    "petrification_polymorph": "8",
+                    "rod_staff_wand": "9",
+                    "breath_weapon": "8",
+                    "spell": "10"
+                },
+                "13": {
+                    "paralyzation_poison_death_magic": "5",
+                    "petrification_polymorph": "6",
+                    "rod_staff_wand": "7",
+                    "breath_weapon": "5",
+                    "spell": "8"
+                },
+                "14": {
+                    "paralyzation_poison_death_magic": "5",
+                    "petrification_polymorph": "6",
+                    "rod_staff_wand": "7",
+                    "breath_weapon": "5",
+                    "spell": "8"
+                },
+                "15": {
+                    "paralyzation_poison_death_magic": "4",
+                    "petrification_polymorph": "5",
+                    "rod_staff_wand": "6",
+                    "breath_weapon": "4",
+                    "spell": "7"
+                },
+                "16": {
+                    "paralyzation_poison_death_magic": "4",
+                    "petrification_polymorph": "5",
+                    "rod_staff_wand": "6",
+                    "breath_weapon": "4",
+                    "spell": "7"
+                },
+                "17": {
+                    "paralyzation_poison_death_magic": "3",
+                    "petrification_polymorph": "4",
+                    "rod_staff_wand": "5",
+                    "breath_weapon": "4",
+                    "spell": "6"
+                }
+            },
+            "to_hit": {
+                "1": {
+                    "-10": "",
+                    "-9": "",
+                    "-8": "",
+                    "-7": "",
+                    "-6": "",
+                    "-5": "",
+                    "-4": "",
+                    "-3": "",
+                    "-2": "",
+                    "-1": "",
+                    "0": "",
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "",
+                    "6": "",
+                    "7": "",
+                    "8": "",
+                    "9": "",
+                    "10": ""
+                }
             }
         }},
         {"ranger": {
@@ -623,6 +1244,168 @@
                 "dexterity": "",
                 "constitution": "",
                 "charisma": ""
+            },
+            "experience_bonus": {
+                "strength": "",
+                "intelligence": "",
+                "wisdom": "",
+                "dexterity": "",
+                "constitution": "",
+                "charisma": "",
+                "bonus": ""
+            },
+            "saving throws": {
+                "0": {
+                    "paralyzation_poison_death_magic": "16",
+                    "petrification_polymorph": "17",
+                    "rod_staff_wand": "18",
+                    "breath_weapon": "20",
+                    "spell": "19"
+                },
+                "1": {
+                    "paralyzation_poison_death_magic": "14",
+                    "petrification_polymorph": "15",
+                    "rod_staff_wand": "16",
+                    "breath_weapon": "17",
+                    "spell": "17"
+                },
+                "2": {
+                    "paralyzation_poison_death_magic": "14",
+                    "petrification_polymorph": "15",
+                    "rod_staff_wand": "16",
+                    "breath_weapon": "17",
+                    "spell": "17"
+                },
+                "3": {
+                    "paralyzation_poison_death_magic": "13",
+                    "petrification_polymorph": "14",
+                    "rod_staff_wand": "15",
+                    "breath_weapon": "16",
+                    "spell": "16"
+                },
+                "4": {
+                    "paralyzation_poison_death_magic": "13",
+                    "petrification_polymorph": "14",
+                    "rod_staff_wand": "15",
+                    "breath_weapon": "16",
+                    "spell": "16"
+                },
+                "5": {
+                    "paralyzation_poison_death_magic": "11",
+                    "petrification_polymorph": "12",
+                    "rod_staff_wand": "13",
+                    "breath_weapon": "13",
+                    "spell": "14"
+                },
+                "6": {
+                    "paralyzation_poison_death_magic": "11",
+                    "petrification_polymorph": "12",
+                    "rod_staff_wand": "13",
+                    "breath_weapon": "13",
+                    "spell": "14"
+                },
+                "7": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "11",
+                    "rod_staff_wand": "12",
+                    "breath_weapon": "12",
+                    "spell": "13"
+                },
+                "8": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "11",
+                    "rod_staff_wand": "12",
+                    "breath_weapon": "12",
+                    "spell": "13"
+                },
+                "9": {
+                    "paralyzation_poison_death_magic": "8",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "10",
+                    "breath_weapon": "9",
+                    "spell": "11"
+                },
+                "10": {
+                    "paralyzation_poison_death_magic": "8",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "10",
+                    "breath_weapon": "9",
+                    "spell": "11"
+                },
+                "11": {
+                    "paralyzation_poison_death_magic": "7",
+                    "petrification_polymorph": "8",
+                    "rod_staff_wand": "9",
+                    "breath_weapon": "8",
+                    "spell": "10"
+                },
+                "12": {
+                    "paralyzation_poison_death_magic": "7",
+                    "petrification_polymorph": "8",
+                    "rod_staff_wand": "9",
+                    "breath_weapon": "8",
+                    "spell": "10"
+                },
+                "13": {
+                    "paralyzation_poison_death_magic": "5",
+                    "petrification_polymorph": "6",
+                    "rod_staff_wand": "7",
+                    "breath_weapon": "5",
+                    "spell": "8"
+                },
+                "14": {
+                    "paralyzation_poison_death_magic": "5",
+                    "petrification_polymorph": "6",
+                    "rod_staff_wand": "7",
+                    "breath_weapon": "5",
+                    "spell": "8"
+                },
+                "15": {
+                    "paralyzation_poison_death_magic": "4",
+                    "petrification_polymorph": "5",
+                    "rod_staff_wand": "6",
+                    "breath_weapon": "4",
+                    "spell": "7"
+                },
+                "16": {
+                    "paralyzation_poison_death_magic": "4",
+                    "petrification_polymorph": "5",
+                    "rod_staff_wand": "6",
+                    "breath_weapon": "4",
+                    "spell": "7"
+                },
+                "17": {
+                    "paralyzation_poison_death_magic": "3",
+                    "petrification_polymorph": "4",
+                    "rod_staff_wand": "5",
+                    "breath_weapon": "4",
+                    "spell": "6"
+                }
+            },
+            "to_hit": {
+                "1": {
+                    "-10": "",
+                    "-9": "",
+                    "-8": "",
+                    "-7": "",
+                    "-6": "",
+                    "-5": "",
+                    "-4": "",
+                    "-3": "",
+                    "-2": "",
+                    "-1": "",
+                    "0": "",
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "",
+                    "6": "",
+                    "7": "",
+                    "8": "",
+                    "9": "",
+                    "10": ""
+                }
             }
         }},
         {"magic-user": {
@@ -633,6 +1416,189 @@
                 "dexterity": "",
                 "constitution": "",
                 "charisma": ""
+            },
+            "experience_bonus": {
+                "strength": "",
+                "intelligence": "",
+                "wisdom": "",
+                "dexterity": "",
+                "constitution": "",
+                "charisma": "",
+                "bonus": ""
+            },
+            "saving throws": {
+                "1": {
+                    "paralyzation_poison_death_magic": "14",
+                    "petrification_polymorph": "13",
+                    "rod_staff_wand": "11",
+                    "breath_weapon": "15",
+                    "spell": "12"
+                },
+                "2": {
+                    "paralyzation_poison_death_magic": "14",
+                    "petrification_polymorph": "13",
+                    "rod_staff_wand": "11",
+                    "breath_weapon": "15",
+                    "spell": "12"
+                },
+                "3": {
+                    "paralyzation_poison_death_magic": "14",
+                    "petrification_polymorph": "13",
+                    "rod_staff_wand": "11",
+                    "breath_weapon": "15",
+                    "spell": "12"
+                },
+                "4": {
+                    "paralyzation_poison_death_magic": "14",
+                    "petrification_polymorph": "13",
+                    "rod_staff_wand": "11",
+                    "breath_weapon": "15",
+                    "spell": "12"
+                },
+                "5": {
+                    "paralyzation_poison_death_magic": "14",
+                    "petrification_polymorph": "13",
+                    "rod_staff_wand": "11",
+                    "breath_weapon": "15",
+                    "spell": "12"
+                },
+                "6": {
+                    "paralyzation_poison_death_magic": "13",
+                    "petrification_polymorph": "11",
+                    "rod_staff_wand": "9",
+                    "breath_weapon": "13",
+                    "spell": "10"
+                },
+                "7": {
+                    "paralyzation_poison_death_magic": "13",
+                    "petrification_polymorph": "11",
+                    "rod_staff_wand": "9",
+                    "breath_weapon": "13",
+                    "spell": "10"
+                },
+                "8": {
+                    "paralyzation_poison_death_magic": "13",
+                    "petrification_polymorph": "11",
+                    "rod_staff_wand": "9",
+                    "breath_weapon": "13",
+                    "spell": "10"
+                },
+                "9": {
+                    "paralyzation_poison_death_magic": "13",
+                    "petrification_polymorph": "11",
+                    "rod_staff_wand": "9",
+                    "breath_weapon": "13",
+                    "spell": "10"
+                },
+                "10": {
+                    "paralyzation_poison_death_magic": "13",
+                    "petrification_polymorph": "11",
+                    "rod_staff_wand": "9",
+                    "breath_weapon": "13",
+                    "spell": "10"
+                },
+                "11": {
+                    "paralyzation_poison_death_magic": "11",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "7",
+                    "breath_weapon": "11",
+                    "spell": "8"
+                },
+                "12": {
+                    "paralyzation_poison_death_magic": "11",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "7",
+                    "breath_weapon": "11",
+                    "spell": "8"
+                },
+                "13": {
+                    "paralyzation_poison_death_magic": "11",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "7",
+                    "breath_weapon": "11",
+                    "spell": "8"
+                },
+                "14": {
+                    "paralyzation_poison_death_magic": "11",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "7",
+                    "breath_weapon": "11",
+                    "spell": "8"
+                },
+                "15": {
+                    "paralyzation_poison_death_magic": "11",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "7",
+                    "breath_weapon": "11",
+                    "spell": "8"
+                },
+                "16": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "7",
+                    "rod_staff_wand": "5",
+                    "breath_weapon": "9",
+                    "spell": "6"
+                },
+                "17": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "7",
+                    "rod_staff_wand": "5",
+                    "breath_weapon": "9",
+                    "spell": "6"
+                },
+                "18": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "7",
+                    "rod_staff_wand": "5",
+                    "breath_weapon": "9",
+                    "spell": "6"
+                },
+                "19": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "7",
+                    "rod_staff_wand": "5",
+                    "breath_weapon": "9",
+                    "spell": "6"
+                },
+                "20": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "7",
+                    "rod_staff_wand": "5",
+                    "breath_weapon": "9",
+                    "spell": "6"
+                },
+                "21": {
+                    "paralyzation_poison_death_magic": "8",
+                    "petrification_polymorph": "5",
+                    "rod_staff_wand": "3",
+                    "breath_weapon": "7",
+                    "spell": "4"
+                }
+            },
+            "to_hit": {
+                "1": {
+                    "-10": "",
+                    "-9": "",
+                    "-8": "",
+                    "-7": "",
+                    "-6": "",
+                    "-5": "",
+                    "-4": "",
+                    "-3": "",
+                    "-2": "",
+                    "-1": "",
+                    "0": "",
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "",
+                    "6": "",
+                    "7": "",
+                    "8": "",
+                    "9": "",
+                    "10": ""
+                }
             }
         }},
         {"illusionist": {
@@ -643,6 +1609,189 @@
                 "dexterity": "",
                 "constitution": "",
                 "charisma": ""
+            },
+            "experience_bonus": {
+                "strength": "",
+                "intelligence": "",
+                "wisdom": "",
+                "dexterity": "",
+                "constitution": "",
+                "charisma": "",
+                "bonus": ""
+            },
+            "saving throws": {
+                "1": {
+                    "paralyzation_poison_death_magic": "14",
+                    "petrification_polymorph": "13",
+                    "rod_staff_wand": "11",
+                    "breath_weapon": "15",
+                    "spell": "12"
+                },
+                "2": {
+                    "paralyzation_poison_death_magic": "14",
+                    "petrification_polymorph": "13",
+                    "rod_staff_wand": "11",
+                    "breath_weapon": "15",
+                    "spell": "12"
+                },
+                "3": {
+                    "paralyzation_poison_death_magic": "14",
+                    "petrification_polymorph": "13",
+                    "rod_staff_wand": "11",
+                    "breath_weapon": "15",
+                    "spell": "12"
+                },
+                "4": {
+                    "paralyzation_poison_death_magic": "14",
+                    "petrification_polymorph": "13",
+                    "rod_staff_wand": "11",
+                    "breath_weapon": "15",
+                    "spell": "12"
+                },
+                "5": {
+                    "paralyzation_poison_death_magic": "14",
+                    "petrification_polymorph": "13",
+                    "rod_staff_wand": "11",
+                    "breath_weapon": "15",
+                    "spell": "12"
+                },
+                "6": {
+                    "paralyzation_poison_death_magic": "13",
+                    "petrification_polymorph": "11",
+                    "rod_staff_wand": "9",
+                    "breath_weapon": "13",
+                    "spell": "10"
+                },
+                "7": {
+                    "paralyzation_poison_death_magic": "13",
+                    "petrification_polymorph": "11",
+                    "rod_staff_wand": "9",
+                    "breath_weapon": "13",
+                    "spell": "10"
+                },
+                "8": {
+                    "paralyzation_poison_death_magic": "13",
+                    "petrification_polymorph": "11",
+                    "rod_staff_wand": "9",
+                    "breath_weapon": "13",
+                    "spell": "10"
+                },
+                "9": {
+                    "paralyzation_poison_death_magic": "13",
+                    "petrification_polymorph": "11",
+                    "rod_staff_wand": "9",
+                    "breath_weapon": "13",
+                    "spell": "10"
+                },
+                "10": {
+                    "paralyzation_poison_death_magic": "13",
+                    "petrification_polymorph": "11",
+                    "rod_staff_wand": "9",
+                    "breath_weapon": "13",
+                    "spell": "10"
+                },
+                "11": {
+                    "paralyzation_poison_death_magic": "11",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "7",
+                    "breath_weapon": "11",
+                    "spell": "8"
+                },
+                "12": {
+                    "paralyzation_poison_death_magic": "11",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "7",
+                    "breath_weapon": "11",
+                    "spell": "8"
+                },
+                "13": {
+                    "paralyzation_poison_death_magic": "11",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "7",
+                    "breath_weapon": "11",
+                    "spell": "8"
+                },
+                "14": {
+                    "paralyzation_poison_death_magic": "11",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "7",
+                    "breath_weapon": "11",
+                    "spell": "8"
+                },
+                "15": {
+                    "paralyzation_poison_death_magic": "11",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "7",
+                    "breath_weapon": "11",
+                    "spell": "8"
+                },
+                "16": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "7",
+                    "rod_staff_wand": "5",
+                    "breath_weapon": "9",
+                    "spell": "6"
+                },
+                "17": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "7",
+                    "rod_staff_wand": "5",
+                    "breath_weapon": "9",
+                    "spell": "6"
+                },
+                "18": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "7",
+                    "rod_staff_wand": "5",
+                    "breath_weapon": "9",
+                    "spell": "6"
+                },
+                "19": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "7",
+                    "rod_staff_wand": "5",
+                    "breath_weapon": "9",
+                    "spell": "6"
+                },
+                "20": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "7",
+                    "rod_staff_wand": "5",
+                    "breath_weapon": "9",
+                    "spell": "6"
+                },
+                "21": {
+                    "paralyzation_poison_death_magic": "8",
+                    "petrification_polymorph": "5",
+                    "rod_staff_wand": "3",
+                    "breath_weapon": "7",
+                    "spell": "4"
+                }
+            },
+            "to_hit": {
+                "1": {
+                    "-10": "",
+                    "-9": "",
+                    "-8": "",
+                    "-7": "",
+                    "-6": "",
+                    "-5": "",
+                    "-4": "",
+                    "-3": "",
+                    "-2": "",
+                    "-1": "",
+                    "0": "",
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "",
+                    "6": "",
+                    "7": "",
+                    "8": "",
+                    "9": "",
+                    "10": ""
+                }
             }
         }},
         {"thief": {
@@ -653,6 +1802,189 @@
                 "dexterity": "",
                 "constitution": "",
                 "charisma": ""
+            },
+            "experience_bonus": {
+                "strength": "",
+                "intelligence": "",
+                "wisdom": "",
+                "dexterity": "",
+                "constitution": "",
+                "charisma": "",
+                "bonus": ""
+            },
+            "saving throws": {
+                "1": {
+                    "paralyzation_poison_death_magic": "13",
+                    "petrification_polymorph": "12",
+                    "rod_staff_wand": "14",
+                    "breath_weapon": "16",
+                    "spell": "15"
+                },
+                "2": {
+                    "paralyzation_poison_death_magic": "13",
+                    "petrification_polymorph": "12",
+                    "rod_staff_wand": "14",
+                    "breath_weapon": "16",
+                    "spell": "15"
+                },
+                "3": {
+                    "paralyzation_poison_death_magic": "13",
+                    "petrification_polymorph": "12",
+                    "rod_staff_wand": "14",
+                    "breath_weapon": "16",
+                    "spell": "15"
+                },
+                "4": {
+                    "paralyzation_poison_death_magic": "13",
+                    "petrification_polymorph": "12",
+                    "rod_staff_wand": "14",
+                    "breath_weapon": "16",
+                    "spell": "15"
+                },
+                "5": {
+                    "paralyzation_poison_death_magic": "12",
+                    "petrification_polymorph": "11",
+                    "rod_staff_wand": "12",
+                    "breath_weapon": "15",
+                    "spell": "13"
+                },
+                "6": {
+                    "paralyzation_poison_death_magic": "12",
+                    "petrification_polymorph": "11",
+                    "rod_staff_wand": "12",
+                    "breath_weapon": "15",
+                    "spell": "13"
+                },
+                "7": {
+                    "paralyzation_poison_death_magic": "12",
+                    "petrification_polymorph": "11",
+                    "rod_staff_wand": "12",
+                    "breath_weapon": "15",
+                    "spell": "13"
+                },
+                "8": {
+                    "paralyzation_poison_death_magic": "12",
+                    "petrification_polymorph": "11",
+                    "rod_staff_wand": "12",
+                    "breath_weapon": "15",
+                    "spell": "13"
+                },
+                "9": {
+                    "paralyzation_poison_death_magic": "11",
+                    "petrification_polymorph": "10",
+                    "rod_staff_wand": "10",
+                    "breath_weapon": "14",
+                    "spell": "11"
+                },
+                "10": {
+                    "paralyzation_poison_death_magic": "11",
+                    "petrification_polymorph": "10",
+                    "rod_staff_wand": "10",
+                    "breath_weapon": "14",
+                    "spell": "11"
+                },
+                "11": {
+                    "paralyzation_poison_death_magic": "11",
+                    "petrification_polymorph": "10",
+                    "rod_staff_wand": "10",
+                    "breath_weapon": "14",
+                    "spell": "11"
+                },
+                "12": {
+                    "paralyzation_poison_death_magic": "11",
+                    "petrification_polymorph": "10",
+                    "rod_staff_wand": "10",
+                    "breath_weapon": "14",
+                    "spell": "11"
+                },
+                "13": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "8",
+                    "breath_weapon": "13",
+                    "spell": "9"
+                },
+                "14": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "8",
+                    "breath_weapon": "13",
+                    "spell": "9"
+                },
+                "15": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "8",
+                    "breath_weapon": "13",
+                    "spell": "9"
+                },
+                "16": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "8",
+                    "breath_weapon": "13",
+                    "spell": "9"
+                },
+                "17": {
+                    "paralyzation_poison_death_magic": "9",
+                    "petrification_polymorph": "8",
+                    "rod_staff_wand": "6",
+                    "breath_weapon": "12",
+                    "spell": "7"
+                },
+                "18": {
+                    "paralyzation_poison_death_magic": "9",
+                    "petrification_polymorph": "8",
+                    "rod_staff_wand": "6",
+                    "breath_weapon": "12",
+                    "spell": "7"
+                },
+                "19": {
+                    "paralyzation_poison_death_magic": "9",
+                    "petrification_polymorph": "8",
+                    "rod_staff_wand": "6",
+                    "breath_weapon": "12",
+                    "spell": "7"
+                },
+                "20": {
+                    "paralyzation_poison_death_magic": "9",
+                    "petrification_polymorph": "8",
+                    "rod_staff_wand": "6",
+                    "breath_weapon": "12",
+                    "spell": "7"
+                },
+                "21": {
+                    "paralyzation_poison_death_magic": "8",
+                    "petrification_polymorph": "7",
+                    "rod_staff_wand": "4",
+                    "breath_weapon": "11",
+                    "spell": "5"
+                }
+            },
+            "to_hit": {
+                "1": {
+                    "-10": "",
+                    "-9": "",
+                    "-8": "",
+                    "-7": "",
+                    "-6": "",
+                    "-5": "",
+                    "-4": "",
+                    "-3": "",
+                    "-2": "",
+                    "-1": "",
+                    "0": "",
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "",
+                    "6": "",
+                    "7": "",
+                    "8": "",
+                    "9": "",
+                    "10": ""
+                }
             }
         }},
         {"assassin": {
@@ -663,6 +1995,189 @@
                 "dexterity": "",
                 "constitution": "",
                 "charisma": ""
+            },
+            "experience_bonus": {
+                "strength": "",
+                "intelligence": "",
+                "wisdom": "",
+                "dexterity": "",
+                "constitution": "",
+                "charisma": "",
+                "bonus": ""
+            },
+            "saving throws": {
+                "1": {
+                    "paralyzation_poison_death_magic": "13",
+                    "petrification_polymorph": "12",
+                    "rod_staff_wand": "14",
+                    "breath_weapon": "16",
+                    "spell": "15"
+                },
+                "2": {
+                    "paralyzation_poison_death_magic": "13",
+                    "petrification_polymorph": "12",
+                    "rod_staff_wand": "14",
+                    "breath_weapon": "16",
+                    "spell": "15"
+                },
+                "3": {
+                    "paralyzation_poison_death_magic": "13",
+                    "petrification_polymorph": "12",
+                    "rod_staff_wand": "14",
+                    "breath_weapon": "16",
+                    "spell": "15"
+                },
+                "4": {
+                    "paralyzation_poison_death_magic": "13",
+                    "petrification_polymorph": "12",
+                    "rod_staff_wand": "14",
+                    "breath_weapon": "16",
+                    "spell": "15"
+                },
+                "5": {
+                    "paralyzation_poison_death_magic": "12",
+                    "petrification_polymorph": "11",
+                    "rod_staff_wand": "12",
+                    "breath_weapon": "15",
+                    "spell": "13"
+                },
+                "6": {
+                    "paralyzation_poison_death_magic": "12",
+                    "petrification_polymorph": "11",
+                    "rod_staff_wand": "12",
+                    "breath_weapon": "15",
+                    "spell": "13"
+                },
+                "7": {
+                    "paralyzation_poison_death_magic": "12",
+                    "petrification_polymorph": "11",
+                    "rod_staff_wand": "12",
+                    "breath_weapon": "15",
+                    "spell": "13"
+                },
+                "8": {
+                    "paralyzation_poison_death_magic": "12",
+                    "petrification_polymorph": "11",
+                    "rod_staff_wand": "12",
+                    "breath_weapon": "15",
+                    "spell": "13"
+                },
+                "9": {
+                    "paralyzation_poison_death_magic": "11",
+                    "petrification_polymorph": "10",
+                    "rod_staff_wand": "10",
+                    "breath_weapon": "14",
+                    "spell": "11"
+                },
+                "10": {
+                    "paralyzation_poison_death_magic": "11",
+                    "petrification_polymorph": "10",
+                    "rod_staff_wand": "10",
+                    "breath_weapon": "14",
+                    "spell": "11"
+                },
+                "11": {
+                    "paralyzation_poison_death_magic": "11",
+                    "petrification_polymorph": "10",
+                    "rod_staff_wand": "10",
+                    "breath_weapon": "14",
+                    "spell": "11"
+                },
+                "12": {
+                    "paralyzation_poison_death_magic": "11",
+                    "petrification_polymorph": "10",
+                    "rod_staff_wand": "10",
+                    "breath_weapon": "14",
+                    "spell": "11"
+                },
+                "13": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "8",
+                    "breath_weapon": "13",
+                    "spell": "9"
+                },
+                "14": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "8",
+                    "breath_weapon": "13",
+                    "spell": "9"
+                },
+                "15": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "8",
+                    "breath_weapon": "13",
+                    "spell": "9"
+                },
+                "16": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "8",
+                    "breath_weapon": "13",
+                    "spell": "9"
+                },
+                "17": {
+                    "paralyzation_poison_death_magic": "9",
+                    "petrification_polymorph": "8",
+                    "rod_staff_wand": "6",
+                    "breath_weapon": "12",
+                    "spell": "7"
+                },
+                "18": {
+                    "paralyzation_poison_death_magic": "9",
+                    "petrification_polymorph": "8",
+                    "rod_staff_wand": "6",
+                    "breath_weapon": "12",
+                    "spell": "7"
+                },
+                "19": {
+                    "paralyzation_poison_death_magic": "9",
+                    "petrification_polymorph": "8",
+                    "rod_staff_wand": "6",
+                    "breath_weapon": "12",
+                    "spell": "7"
+                },
+                "20": {
+                    "paralyzation_poison_death_magic": "9",
+                    "petrification_polymorph": "8",
+                    "rod_staff_wand": "6",
+                    "breath_weapon": "12",
+                    "spell": "7"
+                },
+                "21": {
+                    "paralyzation_poison_death_magic": "8",
+                    "petrification_polymorph": "7",
+                    "rod_staff_wand": "4",
+                    "breath_weapon": "11",
+                    "spell": "5"
+                }
+            },
+            "to_hit": {
+                "1": {
+                    "-10": "",
+                    "-9": "",
+                    "-8": "",
+                    "-7": "",
+                    "-6": "",
+                    "-5": "",
+                    "-4": "",
+                    "-3": "",
+                    "-2": "",
+                    "-1": "",
+                    "0": "",
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "",
+                    "6": "",
+                    "7": "",
+                    "8": "",
+                    "9": "",
+                    "10": ""
+                }
             }
         }},
         {"monk": {
@@ -673,6 +2188,189 @@
                 "dexterity": "",
                 "constitution": "",
                 "charisma": ""
+            },
+            "experience_bonus": {
+                "strength": "",
+                "intelligence": "",
+                "wisdom": "",
+                "dexterity": "",
+                "constitution": "",
+                "charisma": "",
+                "bonus": ""
+            },
+            "saving throws": {
+                "1": {
+                    "paralyzation_poison_death_magic": "13",
+                    "petrification_polymorph": "12",
+                    "rod_staff_wand": "14",
+                    "breath_weapon": "16",
+                    "spell": "15"
+                },
+                "2": {
+                    "paralyzation_poison_death_magic": "13",
+                    "petrification_polymorph": "12",
+                    "rod_staff_wand": "14",
+                    "breath_weapon": "16",
+                    "spell": "15"
+                },
+                "3": {
+                    "paralyzation_poison_death_magic": "13",
+                    "petrification_polymorph": "12",
+                    "rod_staff_wand": "14",
+                    "breath_weapon": "16",
+                    "spell": "15"
+                },
+                "4": {
+                    "paralyzation_poison_death_magic": "13",
+                    "petrification_polymorph": "12",
+                    "rod_staff_wand": "14",
+                    "breath_weapon": "16",
+                    "spell": "15"
+                },
+                "5": {
+                    "paralyzation_poison_death_magic": "12",
+                    "petrification_polymorph": "11",
+                    "rod_staff_wand": "12",
+                    "breath_weapon": "15",
+                    "spell": "13"
+                },
+                "6": {
+                    "paralyzation_poison_death_magic": "12",
+                    "petrification_polymorph": "11",
+                    "rod_staff_wand": "12",
+                    "breath_weapon": "15",
+                    "spell": "13"
+                },
+                "7": {
+                    "paralyzation_poison_death_magic": "12",
+                    "petrification_polymorph": "11",
+                    "rod_staff_wand": "12",
+                    "breath_weapon": "15",
+                    "spell": "13"
+                },
+                "8": {
+                    "paralyzation_poison_death_magic": "12",
+                    "petrification_polymorph": "11",
+                    "rod_staff_wand": "12",
+                    "breath_weapon": "15",
+                    "spell": "13"
+                },
+                "9": {
+                    "paralyzation_poison_death_magic": "11",
+                    "petrification_polymorph": "10",
+                    "rod_staff_wand": "10",
+                    "breath_weapon": "14",
+                    "spell": "11"
+                },
+                "10": {
+                    "paralyzation_poison_death_magic": "11",
+                    "petrification_polymorph": "10",
+                    "rod_staff_wand": "10",
+                    "breath_weapon": "14",
+                    "spell": "11"
+                },
+                "11": {
+                    "paralyzation_poison_death_magic": "11",
+                    "petrification_polymorph": "10",
+                    "rod_staff_wand": "10",
+                    "breath_weapon": "14",
+                    "spell": "11"
+                },
+                "12": {
+                    "paralyzation_poison_death_magic": "11",
+                    "petrification_polymorph": "10",
+                    "rod_staff_wand": "10",
+                    "breath_weapon": "14",
+                    "spell": "11"
+                },
+                "13": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "8",
+                    "breath_weapon": "13",
+                    "spell": "9"
+                },
+                "14": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "8",
+                    "breath_weapon": "13",
+                    "spell": "9"
+                },
+                "15": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "8",
+                    "breath_weapon": "13",
+                    "spell": "9"
+                },
+                "16": {
+                    "paralyzation_poison_death_magic": "10",
+                    "petrification_polymorph": "9",
+                    "rod_staff_wand": "8",
+                    "breath_weapon": "13",
+                    "spell": "9"
+                },
+                "17": {
+                    "paralyzation_poison_death_magic": "9",
+                    "petrification_polymorph": "8",
+                    "rod_staff_wand": "6",
+                    "breath_weapon": "12",
+                    "spell": "7"
+                },
+                "18": {
+                    "paralyzation_poison_death_magic": "9",
+                    "petrification_polymorph": "8",
+                    "rod_staff_wand": "6",
+                    "breath_weapon": "12",
+                    "spell": "7"
+                },
+                "19": {
+                    "paralyzation_poison_death_magic": "9",
+                    "petrification_polymorph": "8",
+                    "rod_staff_wand": "6",
+                    "breath_weapon": "12",
+                    "spell": "7"
+                },
+                "20": {
+                    "paralyzation_poison_death_magic": "9",
+                    "petrification_polymorph": "8",
+                    "rod_staff_wand": "6",
+                    "breath_weapon": "12",
+                    "spell": "7"
+                },
+                "21": {
+                    "paralyzation_poison_death_magic": "8",
+                    "petrification_polymorph": "7",
+                    "rod_staff_wand": "4",
+                    "breath_weapon": "11",
+                    "spell": "5"
+                }
+            },
+            "to_hit": {
+                "1": {
+                    "-10": "",
+                    "-9": "",
+                    "-8": "",
+                    "-7": "",
+                    "-6": "",
+                    "-5": "",
+                    "-4": "",
+                    "-3": "",
+                    "-2": "",
+                    "-1": "",
+                    "0": "",
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": "",
+                    "5": "",
+                    "6": "",
+                    "7": "",
+                    "8": "",
+                    "9": "",
+                    "10": ""
+                }
             }
         }}
     ],

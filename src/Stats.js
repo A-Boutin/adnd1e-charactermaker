@@ -43,8 +43,6 @@ const dndInfo = require('./json/adnd1e.json');
                 this.setState({
                     [mod] : mods[mod]
                 })
-                // console.log(mod);
-                // console.log(mods[mod]);
             }
         }
     }
