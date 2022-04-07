@@ -1,5 +1,11 @@
+@font-face {
+  font-family: "Souvenir";
+  src: url("fonts/Souvenir-Medium.otf");
+}
+
 .App {
   text-align: center;
+  font-family: "Souvenir";
 }
 
 .App-logo {
@@ -37,10 +43,16 @@
   }
 }
 
+.centralize {
+  display: flex;
+  justify-content: center;
+}
+
 .health {
   border: 5px solid #111;
   text-align: center;
-  padding: 1px 4px 1px 4px;
+  padding: 14px 14px 14px 14px;
+  font-size: 26px;
 }
 
 .shield {
@@ -48,14 +60,16 @@
   width: 26px;
   border: 5px solid #111;
   border-radius: 50% 50% 50% 50% / 12% 12% 88% 88%;
-  padding-left: 6px;
-  padding-right: 6px;
+  padding: 14px 16px 14px 16px;
+  font-size: 26px;
 }
-.test{
-  /* white-space: nowrap; */
-}
-.test * {
-  display: inline;
+
+.hp-label, .ac-label {
+  font-size: 12px;
+ }
+
+.hp-ac {
+  margin-left: 10px;
 }
 
 .stats{
@@ -79,6 +93,11 @@
   width: 32px;
   height: 30px;
   margin: 0px 5px 10px 0px;
+  background-color: #F1F4FF;
+}
+.stat-input:focus{
+  outline: none;
+  background-color: white;
 }
 
 .stat-mods{
@@ -109,12 +128,125 @@
   width: 42px;
   height: 30px;
   padding: 0px 0px 0px 0px;
-  background-color: #d3d3d3;
+  background-color: #F1F4FF;
 }
 
-.testtwo{
+.character-info {
+  text-align: left;
+}
+
+.column {
   display: block;
 }
-.testthree{
+.row {
+  text-align: left;
   display: inline-block;
+  margin-left: 5px;
+}
+
+.character-label {
+  font-size: 12px;
+}
+
+.character-input {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 2px solid black;
+  padding-top: 10px;
+  padding-bottom: 2px;
+  background-color: #F1F4FF;
+}
+
+.character-input:focus {
+  outline: none;
+  border-bottom: 2px solid black;
+  padding-top: 10px;
+  padding-bottom: 2px;
+  background-color: white;
+  margin-left: 5px;
+}
+
+#player-input {
+  width: 220px;
+}
+#character-name-input {
+  width: 280px;
+}
+#alignment-input {
+  width: 110px;
+}
+#classes-input {
+  width: 220px;
+}
+#levels-input {
+  width: 90px;
+}
+#full-hp-input {
+  width: 70px;
+}
+#age-input {
+  width: 60px;
+}
+#gender-input {
+  width: 100px;
+}
+#height-input {
+  width: 50px;
+}
+#weight-input {
+  width: 50px;
+}
+#race-input {
+  width: 100px;
+}
+#languages-input {
+  width: 400px;
+}
+
+.first-row{
+  display: inline-flex;
+}
+
+.dnd-gamename {
+  float: left;
+}
+.character-record-name {
+ float: right;
+}
+.sheet-title {
+  margin-left: 15%;
+  margin-right: 15%;
+  font-size: 40px;
+  font-weight: bolder;
+}
+.title-bottomborder {
+  border-bottom: 8px solid black;
+}
+
+.features {
+  font-size: 12px;
+}
+.features * {
+  display: block;
+  background-color: #F1F4FF;
+}
+
+.features-border {
+  border: 1px solid black;
+}
+
+.features-label {
+  padding-left: 4px;
+  padding-top: 5px;
+}
+
+.features-input {
+  border: none;
+  width: 200px;
+  height: 70px;
+  resize: none;
+}
+.features-input:focus {
+  outline: none;
 }

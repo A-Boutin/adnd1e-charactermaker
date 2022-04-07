@@ -49,11 +49,11 @@ const dndInfo = require('./json/adnd1e.json');
 
     render() {
       return (
-        <div>
+        <div class="centralize">
             <div class="stats">
                 <div class="stat">
                     <div>
-                        <label class="stat-label" for="strength">Str </label>
+                        <label class="stat-label" for="strength">Str &nbsp;</label>
                         <input class="stat-input" type="number" name="strength" onChange={(e) => this.onStatChange(e, 'strength')}></input>
                     </div>
                     <div class="stat-mods">
@@ -81,7 +81,7 @@ const dndInfo = require('./json/adnd1e.json');
                 </div>
                 <div class="stat">
                     <div>
-                        <label class="stat-label" for="intelligence">Int </label>
+                        <label class="stat-label" for="intelligence">Int &nbsp;</label>
                         <input class="stat-input" type="number" name="intelligence" onChange={(e) => this.onStatChange(e, 'intelligence')}></input>
                     </div>
                     <div class="stat-mods">
